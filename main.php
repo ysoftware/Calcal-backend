@@ -2,6 +2,13 @@
 
 function handleFileUpload() {
     $filename = "./data.txt";
+    $password = trim(file_get_contents("./password.txt"));
+
+    if (!isset($_POST['password']) || $_POST['password'] !== $password) {
+        http_response_code(403);
+        exit;
+    }
+
     if (isset($_FILES['file'])) {
         $file = $_FILES['file'];
         
