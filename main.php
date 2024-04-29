@@ -19,6 +19,8 @@ function handleFileUpload() {
 function handleFileDownload() {
     $filename = "./data.txt";
     if (file_exists($filename) && is_readable($filename)) {
+        header('Content-Type: text/plain');
+        header('Content-Disposition: inline; filename="' . basename($filename) . '"');
         readfile($filename);
         http_response_code(200);
     } else {
