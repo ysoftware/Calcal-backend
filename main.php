@@ -1,7 +1,7 @@
 <?php
-$filename = "data.txt";
 
 function handleFileUpload() {
+    $filename = "./data.txt";
     if (isset($_FILES['file'])) {
         $file = $_FILES['file'];
         
@@ -17,14 +17,8 @@ function handleFileUpload() {
 }
 
 function handleFileDownload() {
+    $filename = "./data.txt";
     if (file_exists($filename) && is_readable($filename)) {
-        header('Content-Description: File Transfer');
-        header('Content-Type: application/octet-stream');
-        header('Content-Disposition: attachment; filename="' . basename($filename) . '"');
-        header('Expires: 0');
-        header('Cache-Control: must-revalidate');
-        header('Pragma: public');
-        header('Content-Length: ' . filesize($filename));
         readfile($filename);
         http_response_code(200);
     } else {
