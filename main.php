@@ -4,6 +4,12 @@ function handleFileUpload() {
     $filename = "./data.txt";
     $password = trim(file_get_contents("./password.txt"));
 
+    if ($password == '') {
+	http_response_code(500);
+	header("Info: Server not configured.");
+	exit;
+    }
+
     if (!isset($_POST['password']) || $_POST['password'] !== $password) {
         http_response_code(403);
         exit;
