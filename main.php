@@ -5,9 +5,9 @@ function handleFileUpload() {
     $password = trim(file_get_contents("./password.txt"));
 
     if ($password == '') {
-	http_response_code(500);
-	header("Info: Server not configured.");
-	exit;
+        http_response_code(500);
+        header("Info: Server not configured.");
+        exit;
     }
 
     if (!isset($_POST['password']) || $_POST['password'] !== $password) {
@@ -32,10 +32,10 @@ function handleFileUpload() {
 function handleFileDownload() {
     $filename = "./data.txt";
     if (file_exists($filename) && is_readable($filename)) {
+        http_response_code(200);
         header('Content-Type: text/plain');
         header('Content-Disposition: inline; filename="' . basename($filename) . '"');
         readfile($filename);
-        http_response_code(200);
     } else {
         http_response_code(404);
     }

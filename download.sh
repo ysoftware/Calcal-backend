@@ -1,4 +1,4 @@
-curl -o data.txt https://whoniverse-app.com/calcal/main.php
+curl -o data.txt http://185.163.118.53/main.php
 
 if [ $? -eq 0 ]; then
     echo "File downloaded successfully."
