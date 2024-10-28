@@ -13,17 +13,16 @@ fn main() {
 
         if request.len() > 0 && request.first().unwrap() == "GET /main.php HTTP/1.1" {
             let data = fs::read("data.txt").unwrap();
-            let size_header = format!("Content-Length: {}\r\n", data.len());
-
             _ = stream.write_all(b"HTTP/1.1 200 OK\r\n");
             _ = stream.write_all(b"Content-type: text/plain;charset=UTF-8\r\n");
-            _ = stream.write_all(size_header.as_bytes());
+            _ = stream.write_all(b"Connection: close\r\n");
+            _ = stream.write_all(format!("Content-Length: {}\r\n", data.len()).as_bytes());
             _ = stream.write_all(b"\r\n");
             _ = stream.write_all(&data);
-            println!("got get");
+            println!("got get, 200");
         } else {
             _ = stream.write_all("HTTP/1.1 405 Not allowed".as_bytes());
-            println!("got garbage, returning 405");
+            println!("got garbage, 405");
         }
     }
 }
