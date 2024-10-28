@@ -40,8 +40,10 @@ function handleFileUpload() {
 function handleFileDownload() {
     $filename = "./data.txt";
     if (file_exists($filename) && is_readable($filename)) {
+        $size = filesize($filename);
         http_response_code(200);
         header('Content-Type: text/plain');
+        header("Content-Length: $size");
         header('Content-Disposition: inline; filename="' . basename($filename) . '"');
         readfile($filename);
     } else {
