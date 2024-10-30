@@ -121,7 +121,7 @@ struct PostBody: Decodable {
 
         let app = Application(
             router: router,
-            configuration: .init(address: .hostname("127.0.0.1", port: 80))
+            configuration: .init(address: .hostname("0.0.0.0", port: 80))
         )
         try await app.runService()
     }
