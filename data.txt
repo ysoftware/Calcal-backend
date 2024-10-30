@@ -5420,4 +5420,62 @@ Date: 28 October 2024
 Breakfast - 45 kcal
 - Cappuccino, 1, 45 kcal
 
-Total: 45 kcal
+Lunch - 485 kcal
+- Italian pizza, 0.3, 270 kcal
+- Chocomel, 150 ml, 105 kcal
+- Птичье молоко, 25 g, 110 kcal
+
+Dinner - 1009 kcal
+- Nachos, 50 g, 200 kcal
+- Sprite, 0.6 l, 198 kcal
+- Sauce, 40 g, 60 kcal
+- Burrito, 1.5, 375 kcal
+- Quesadilla, 60 g, 176 kcal
+
+Snack 2 - 186 kcal
+- Птичье молоко, 25 g, 110 kcal
+- Вдохновение конфета, 14 g, 76 kcal
+
+Snack 3 - 336 kcal
+- Sprite, 200 ml, 66 kcal
+- Maltesers, 30 g, 150 kcal
+- Nachos, 30 g, 120 kcal
+
+Total: 2061 kcal
+
+Date: 29 October 2024
+
+Breakfast - 178 kcal
+- Cappuccino, 1, 45 kcal
+- Shortbread biscuit, 25 g, 88 kcal
+- Fudge, 10 g, 45 kcal
+
+Lunch - 1256 kcal
+- Schawarma Anya, 1, 900 kcal
+- Ayran, 250 ml, 85 kcal
+- Shortbread biscuit, 25 g, 88 kcal
+- Twix, 15 g, 74 kcal
+- Climaid, 330 ml, 109 kcal
+
+Dinner - 543 kcal
+- Ham, 20 g, 20 kcal
+- Fried Rice, 100 g, 169 kcal
+- Fried egg, 1, 90 kcal
+- Olive oil, 5 ml, 44 kcal
+- Mince pie, 27 g, 110 kcal
+- Mince pie, 27 g, 110 kcal
+
+Total: 1977 kcal
+
+Date: 30 October 2024
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 893 kcal
+- Butter Chicken, 200 g, 478 kcal
+- Rice, 100 g, 131 kcal
+- Naan, 50 g, 145 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Total: 938 kcal
