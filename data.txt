@@ -5472,10 +5472,16 @@ Date: 30 October 2024
 Breakfast - 45 kcal
 - Cappuccino, 1, 45 kcal
 
-Lunch - 893 kcal
+Lunch - 1086 kcal
 - Butter Chicken, 200 g, 478 kcal
 - Rice, 100 g, 131 kcal
 - Naan, 50 g, 145 kcal
 - Coca cola, 330 ml, 139 kcal
+- Hot Chocolate, 250 ml, 193 kcal
 
-Total: 938 kcal
+Second Lunch - 518 kcal
+- Rice, 80 g, 105 kcal
+- Butter Chicken, 100 g, 239 kcal
+- Naan, 60 g, 174 kcal
+
+Total: 1649 kcal

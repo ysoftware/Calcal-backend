@@ -11,16 +11,33 @@ struct PostBody: Decodable {
     static func main() async throws {
         let router = Router()
 
-        router.get("main.php") { request, _ -> String in
-            print("got get")
+        router.get("main.php") { request, _ -> Response in
 
+            var transferSize = 0
             do {
                 let url = URL(fileURLWithPath: "data.txt")
                 let data = try Data(contentsOf: url)
-                let contents = String(data: data, encoding: .utf8)
-                return contents ?? "Error"
+                transferSize = data.count
+
+                guard let contents = String(data: data, encoding: .utf8) else {
+                    print("got get: server error \(#line)")
+                    return Response(status: .internalServerError, headers: HTTPFields(), body: ResponseBody())
+                }
+
+                print("got get: ok [transferred: \(transferSize) bytes]")
+                let buffer = ByteBuffer(string: contents)
+
+                return Response(
+                    status: .ok, 
+                    headers: [
+                        .contentType: "text/plain; charset=utf-8",
+                        .contentLength: buffer.readableBytes.description
+                    ],
+                    body: ResponseBody(byteBuffer: buffer)
+                )
             } catch {
-                return "\(error)"
+                print("got get: server error \(#line)")
+                return Response(status: .internalServerError, headers: HTTPFields(), body: ResponseBody())
             }
         }
 
@@ -32,9 +49,11 @@ struct PostBody: Decodable {
             else { return Response(status: .badRequest, headers: HTTPFields(), body: ResponseBody()) }
 
             let postBody: PostBody
+            var transferSize = 0
             do {
                 let buffer = try await request.body.collect(upTo: context.maxUploadSize)
                 postBody = try FormDataDecoder().decode(PostBody.self, from: buffer, boundary: parameter.value)
+                transferSize = buffer.writerIndex
             } catch {
                 print("got post: bad request \(#line)")
                 return Response(status: .badRequest, headers: HTTPFields(), body: ResponseBody())
@@ -96,7 +115,7 @@ struct PostBody: Decodable {
                 return Response(status: .internalServerError, headers: HTTPFields(), body: ResponseBody())
             }
 
-            print("got post: ok")
+            print("got post: ok [transfered \(transferSize) bytes]")
             return Response(status: .ok, headers: HTTPFields(), body: ResponseBody())
         }
 
