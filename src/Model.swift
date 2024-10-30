@@ -100,7 +100,7 @@ final class Model: @unchecked Sendable {
             .joined(separator: "\n\n")
         
         guard let url = Bundle.main.url(forResource: "password", withExtension: "txt") else { return }
-        let password = try String(contentsOf: url).trimmingCharacters(in: .whitespacesAndNewlines)
+        let password = try String(contentsOf: url, encoding: .utf8).trimmingCharacters(in: .whitespacesAndNewlines)
         
         let boundary = UUID().uuidString
         var request = URLRequest(url: apiUrl)
