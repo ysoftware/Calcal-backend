@@ -2207,8 +2207,8 @@ Lunch - 1009 kcal
 - Pide Meat & Cheese, 1, 900 kcal
 - Climaid, 330 ml, 109 kcal
 
-Dinner - 562 kcal
-- Tarator, 300 ml, 420 kcal
+Dinner - 317 kcal
+- Tarator, 300 ml, 175 kcal
 - Camambert Cheese, 20 g, 44 kcal
 - Cheese, 15 g, 60 kcal
 - Орехите Сушеница, 15 g, 35 kcal
@@ -2217,7 +2217,7 @@ Dinner - 562 kcal
 Snack - 350 kcal
 - Gin Tonic, 500 ml, 350 kcal
 
-Total: 2066 kcal
+Total: 1821 kcal
 
 Date: 28 June 2024
 
@@ -2252,14 +2252,14 @@ Breakfast - 525 kcal
 - Cappuccino (oatmilk), 1, 120 kcal
 - Italian pizza, 0.45, 405 kcal
 
-Lunch - 1020 kcal
+Lunch - 880 kcal
 - Paprica Creme, 20 g, 55 kcal
 - Орехите Сушеница, 15 g, 35 kcal
 - Pasta with sauce, 150 g, 236 kcal
 - Salsiccia, 50 g, 140 kcal
 - Мираж, 24 g, 108 kcal
 - Mini rolls with Cheese, 60 g, 166 kcal
-- Tarator, 200 ml, 280 kcal
+- Tarator, 200 ml, 140 kcal
 
 Snack - 419 kcal
 - Italian pizza, 0.15, 135 kcal
@@ -2276,7 +2276,7 @@ Dinner - 592 kcal
 Snack 2 - 182 kcal
 - Gin Tonic, 260 ml, 182 kcal
 
-Total: 2738 kcal
+Total: 2598 kcal
 
 Date: 30 June 2024
 
@@ -5497,4 +5497,4791 @@ Breakfast - 166 kcal
 - Cappuccino, 1, 45 kcal
 - Banana, 1, 121 kcal
 
-Total: 166 kcal
+Lunch - 1002 kcal
+- Pide Meat & Cheese, 1, 900 kcal
+- Ayran, 300 ml, 102 kcal
+
+Snack - 176 kcal
+- Schweppes, 200 ml, 50 kcal
+- Orange Juice, 200 ml, 70 kcal
+- Praline, 1, 56 kcal
+
+Dinner - 912 kcal
+- Milk Chocolate, 20 g, 108 kcal
+- Praline, 1, 56 kcal
+- Вдохновение конфета, 14 g, 76 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+- Sushi, 1, 500 kcal
+- Deep fried shrimp, 1, 44 kcal
+- Schweppes, 300 ml, 75 kcal
+
+Partay - 405 kcal
+- Beer, 0.9 l, 405 kcal
+
+Total: 2661 kcal
+
+Date: 1 November 2024
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 796 kcal
+- Hänchenspieß Dürüm, 1, 600 kcal
+- Orange Juice, 250 ml, 88 kcal
+- White chocolate, 20 g, 108 kcal
+
+Dinner - 897 kcal
+- Baked Fish, 125 g, 313 kcal
+- Olivier salad, 120 g, 426 kcal
+- Olives, 5, 25 kcal
+- Beer, 175 ml, 79 kcal
+- White chocolate, 10 g, 54 kcal
+
+Total: 1738 kcal
+
+Date: 2 November 2024
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 474 kcal
+- Orange Juice, 200 ml, 70 kcal
+- Fried shrimp, 50 g, 58 kcal
+- Udon noodle, 150 g, 258 kcal
+- Olive oil, 10 ml, 88 kcal
+
+Snack - 470 kcal
+- Schweppes, 400 ml, 100 kcal
+- Fudge, 15 g, 67 kcal
+- Wafer, 70 g, 303 kcal
+
+Dinner - 1467 kcal
+- Fries, 60 g, 187 kcal
+- Pita with meat, 1, 700 kcal
+- Coca cola, 330 ml, 139 kcal
+- Baklava, 35 g, 151 kcal
+- Coca cola, 330 ml, 139 kcal
+- Baklava, 35 g, 151 kcal
+
+Total: 2456 kcal
+
+Date: 3 November 2024
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 629 kcal
+- Olives, 5, 25 kcal
+- Olivier salad, 30 g, 107 kcal
+- Филе велев, 25 g, 72 kcal
+- Schweppes, 200 ml, 50 kcal
+- Tibetan Fried Beef Noodle, 0.3, 210 kcal
+- Orange Chocolate, 30 g, 165 kcal
+
+Snack - 216 kcal
+- Mince pie, 27 g, 110 kcal
+- Lays Chips, 15 g, 83 kcal
+- Fudge, 5 g, 23 kcal
+
+Dinner - 946 kcal
+- Rice, 120 g, 157 kcal
+- Sirene, 50 g, 122 kcal
+- Mayonaise, 10 g, 68 kcal
+- Schweppes, 300 ml, 75 kcal
+- Olives, 5, 25 kcal
+- Baklava, 35 g, 151 kcal
+- Pork Sausage fried, 70 g, 211 kcal
+- Orange Chocolate, 25 g, 137 kcal
+
+Total: 1836 kcal
+
+Date: 4 November 2024
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 644 kcal
+- Olives, 7, 35 kcal
+- Orange Juice, 270 ml, 95 kcal
+- Roasted Potato, 100 g, 150 kcal
+- Peas, 50 g, 40 kcal
+- Egg, 1, 93 kcal
+- Mayonaise, 15 g, 102 kcal
+- Sirene, 25 g, 61 kcal
+- granini, 180 ml, 68 kcal
+
+Snack - 532 kcal
+- Mince pie, 27 g, 110 kcal
+- Mince pie, 27 g, 110 kcal
+- Птичье молоко, 25 g, 110 kcal
+- Батончик, 8 g, 65 kcal
+- White chocolate, 10 g, 54 kcal
+- Orange Chocolate, 15 g, 83 kcal
+
+Dinner - 948 kcal
+- Naan, 120 g, 348 kcal
+- Cider, 330 ml, 202 kcal
+- Ferrero Rocher, 1, 78 kcal
+- Chicken Tikka, 250 g, 320 kcal
+
+Total: 2169 kcal
+
+Date: 5 November 2024
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 1052 kcal
+- Schawarma Anya, 1, 900 kcal
+- Ayran, 250 ml, 85 kcal
+- Fudge, 15 g, 67 kcal
+
+Snack - 977 kcal
+- Apfelschorle, 330 ml, 93 kcal
+- Chicken Tikka, 350 g, 448 kcal
+- Naan, 150 g, 436 kcal
+
+Snack 2 - 325 kcal
+- Ferrero Rocher, 1, 78 kcal
+- Orange Chocolate, 45 g, 247 kcal
+
+Total: 2399 kcal
+
+Date: 6 November 2024
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 573 kcal
+- Couscous, 120 g, 134 kcal
+- Baked Beans, 150 g, 225 kcal
+- Nachos, 20 g, 80 kcal
+- Sour cream, 30 g, 59 kcal
+- Chicken breast fried, 30 g, 75 kcal
+
+Snack - 109 kcal
+- Climaid, 330 ml, 109 kcal
+
+Dinner - 809 kcal
+- Italian pizza, 0.65, 585 kcal
+- Sirene, 60 g, 146 kcal
+- Ferrero Rocher, 1, 78 kcal
+
+Concert - 377 kcal
+- Beer, 330 ml, 149 kcal
+- Twix, 46 g, 228 kcal
+
+Total: 1913 kcal
+
+Date: 7 November 2024
+
+Breakfast - 187 kcal
+- Cappuccino, 1, 45 kcal
+- Chocolate milk, 200 ml, 142 kcal
+
+Lunch - 468 kcal
+- Rice, 100 g, 131 kcal
+- Duck breast crispy, 100 g, 337 kcal
+
+Snack - 109 kcal
+- Climaid, 330 ml, 109 kcal
+
+Dinner - 1373 kcal
+- Gemüsekebap, 1, 999 kcal
+- Kölsch, 4, 320 kcal
+- White chocolate, 10 g, 54 kcal
+
+Total: 2137 kcal
+
+Date: 8 November 2024
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 759 kcal
+- Lasagne, 1, 400 kcal
+- Cheese, 50 g, 200 kcal
+- Bread, 30 g, 79 kcal
+- Fanta, 250 ml, 80 kcal
+
+Snack - 247 kcal
+- Mince pie, 27 g, 110 kcal
+- Coca cola, 220 ml, 93 kcal
+- Milk Chocolate, 8 g, 44 kcal
+
+Snack 2 - 282 kcal
+- Pizza, 0.2, 140 kcal
+- Coca cola, 220 ml, 93 kcal
+- Sirene, 20 g, 49 kcal
+
+Snack 3 - 1237 kcal
+- Double cheeseburger, 0.15, 69 kcal
+- Fries, 40 g, 125 kcal
+- Coca cola, 100 ml, 42 kcal
+- Milkshake 5 Guys, 1, 800 kcal
+- Fudge, 45 g, 201 kcal
+
+Total: 2570 kcal
+
+Date: 4 February 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 939 kcal
+- Pulled noodle beef ramen, 1, 800 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Snack - 197 kcal
+- Climaid, 330 ml, 109 kcal
+- Breakfast Juice, 200 ml, 88 kcal
+
+Dinner - 670 kcal
+- Snail Sosis, 80 g, 208 kcal
+- Mashed potato, 180 g, 158 kcal
+- Sirene, 30 g, 73 kcal
+- Cheese, 30 g, 120 kcal
+- Beer, 175 ml, 79 kcal
+- Peas, 40 g, 32 kcal
+
+Total: 1851 kcal
+
+Date: 5 February 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 763 kcal
+- Burrito large, 250 g, 550 kcal
+- Nachos, 30 g, 120 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Snack - 393 kcal
+- Coca cola, 330 ml, 139 kcal
+- Breakfast Juice, 300 ml, 132 kcal
+- Kinder Bueno, 21.5 g, 122 kcal
+
+Dinner - 1189 kcal
+- Sprite, 300 ml, 99 kcal
+- Beef Burger, 1.2, 840 kcal
+- Onion Rings, 5, 250 kcal
+
+Total: 2390 kcal
+
+Date: 6 February 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 657 kcal
+- Chicken Tikka, 250 g, 320 kcal
+- Naan, 80 g, 232 kcal
+- Masala Chai, 1, 105 kcal
+
+Snack - 35 kcal
+- Clementine, 1, 35 kcal
+
+Dinner - 1004 kcal
+- Italian pizza, 0.5, 450 kcal
+- White Wine, 200 ml, 164 kcal
+- Juicy, 300 ml, 105 kcal
+- Wine, 250 ml, 205 kcal
+- Fanta, 250 ml, 80 kcal
+
+Total: 1741 kcal
+
+Date: 7 February 2025
+
+Breakfast - 80 kcal
+- Cappuccino, 1, 45 kcal
+- Clementine, 1, 35 kcal
+
+Lunch - 552 kcal
+- Italian pizza, 0.45, 405 kcal
+- Fanta, 250 ml, 80 kcal
+- Sucuk, 20 g, 67 kcal
+
+Snack - 241 kcal
+- Fanta, 150 ml, 48 kcal
+- Cappuccino, 1, 45 kcal
+- Ferrero Rocher, 1, 78 kcal
+- Babybel, 1, 70 kcal
+
+Dinner - 901 kcal
+- Beer, 330 ml, 149 kcal
+- Takoyaki balls, 3, 174 kcal
+- Bao Bun large, 1, 200 kcal
+- Karaage, 30 g, 38 kcal
+- Sushi rolls, 8, 280 kcal
+- Sauce, 40 g, 60 kcal
+
+Snack 2 - 398 kcal
+- Kinder Egg, 1, 110 kcal
+- Wine, 250 ml, 205 kcal
+- Sprite, 250 ml, 83 kcal
+
+Total: 2172 kcal
+
+Date: 8 February 2025
+
+Breakfast - 133 kcal
+- Cappuccino, 1, 45 kcal
+- Breakfast Juice, 200 ml, 88 kcal
+
+Lunch - 728 kcal
+- Burger bun, 50 g, 150 kcal
+- Orange Juice, 300 ml, 105 kcal
+- Butter, 15 g, 107 kcal
+- Mashed potato, 60 g, 53 kcal
+- Fried egg, 1, 90 kcal
+- Cheese, 15 g, 60 kcal
+- Peas, 40 g, 32 kcal
+- Smoked Salmon, 20 g, 23 kcal
+- Sirene, 30 g, 73 kcal
+- Орехите Сушеница, 15 g, 35 kcal
+
+Snack - 413 kcal
+- Large Cappuccino, 1, 150 kcal
+- Schokokuchen, 50 g, 190 kcal
+- Actimel, 100 ml, 73 kcal
+
+Dinner - 902 kcal
+- Кюфтета, 80 g, 160 kcal
+- Tomato, 50 g, 10 kcal
+- Sirene, 30 g, 73 kcal
+- Baked Potato, 100 g, 93 kcal
+- Fanta, 330 ml, 106 kcal
+- Milky Way small, 21.5 g, 98 kcal
+- Juicy, 300 ml, 105 kcal
+- Kinder Bueno, 21.5 g, 122 kcal
+- Хипер, 25 g, 135 kcal
+
+Total: 2176 kcal
+
+Date: 9 February 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 1049 kcal
+- Baked Beans, 150 g, 225 kcal
+- Kürbiskernbrötchen, 55 g, 202 kcal
+- Olivier salad, 120 g, 426 kcal
+- Sirene, 25 g, 61 kcal
+- Cheese, 15 g, 60 kcal
+- Schweppes, 300 ml, 75 kcal
+
+Snack - 240 kcal
+- Cappuccino, 1, 45 kcal
+- Marzipanstriezel, 60 g, 195 kcal
+
+Dinner - 883 kcal
+- Olivier salad, 80 g, 284 kcal
+- Roasted Potato, 100 g, 150 kcal
+- Pork Sausage fried, 80 g, 241 kcal
+- Bread, 40 g, 106 kcal
+- Ayran, 300 ml, 102 kcal
+
+Snack 2 - 98 kcal
+- Milky Way small, 21.5 g, 98 kcal
+
+Total: 2315 kcal
+
+Date: 10 February 2025
+
+Breakfast - 312 kcal
+- Cappuccino, 1, 45 kcal
+- Breakfast Juice, 300 ml, 132 kcal
+- Хипер, 25 g, 135 kcal
+
+Lunch - 556 kcal
+- Fanta, 330 ml, 106 kcal
+- Italian pizza, 0.5, 450 kcal
+
+Snack - 228 kcal
+- Black Tea, 1 l, 0 kcal
+- Marzipanstriezel, 70 g, 228 kcal
+
+Dinner - 1103 kcal
+- Italian pizza, 0.5, 450 kcal
+- Olivier salad, 80 g, 284 kcal
+- Cheese, 20 g, 80 kcal
+- Beer, 500 ml, 225 kcal
+- Eierlikör Praline, 12.5 g, 64 kcal
+
+Snack 2 - 205 kcal
+- White Wine, 250 ml, 205 kcal
+
+Total: 2404 kcal
+
+Date: 11 February 2025
+
+Breakfast - 166 kcal
+- Cappuccino, 1, 45 kcal
+- Banana, 1, 121 kcal
+
+Lunch - 650 kcal
+- Kölsch, 1, 80 kcal
+- Jägerschnitzel, 1, 320 kcal
+- Fries, 80 g, 250 kcal
+
+Snack - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Dinner - 822 kcal
+- Fried fish tapas, 80 g, 171 kcal
+- Sweet Potat Fries, 150 g, 275 kcal
+- Steak, 50 g, 136 kcal
+- Sangria, 250 ml, 190 kcal
+- Sauce, 1, 50 kcal
+
+Snack 2 - 698 kcal
+- Gin Tonic, 300 ml, 210 kcal
+- Gin Tonic, 300 ml, 210 kcal
+- Ferrero Rocher, 1, 78 kcal
+- Kinder Bueno, 21.5 g, 122 kcal
+- Ferrero Rocher, 1, 78 kcal
+
+Total: 2381 kcal
+
+Date: 12 February 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 393 kcal
+- Pasta with sauce, 250 g, 393 kcal
+
+Snack - 232 kcal
+- Apfelschorle, 330 ml, 93 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Snack 2 - 1580 kcal
+- Olivier salad, 120 g, 426 kcal
+- Marzipanstriezel, 75 g, 244 kcal
+- Kinder Bueno, 21.5 g, 122 kcal
+- Kürbiskernbrötchen, 55 g, 203 kcal
+- Cheese, 25 g, 100 kcal
+- Jam, 20 g, 56 kcal
+- Milky Way small, 21.5 g, 98 kcal
+- Kürbiskernbrötchen, 90 g, 331 kcal
+
+Total: 2250 kcal
+
+Date: 13 February 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 600 kcal
+- Chicken burger, 1, 600 kcal
+
+Snack - 109 kcal
+- Climaid, 330 ml, 109 kcal
+
+Dinner - 1012 kcal
+- Gyros Pita Pommes, 1, 750 kcal
+- White Wine, 200 ml, 164 kcal
+- Milky Way small, 21.5 g, 98 kcal
+
+Snack 2 - 503 kcal
+- White Wine, 200 ml, 164 kcal
+- Kinder Bueno, 21.5 g, 122 kcal
+- Kinder Pingui, 1, 135 kcal
+- White Wine, 100 ml, 82 kcal
+
+Total: 2269 kcal
+
+Date: 14 February 2025
+
+Breakfast - 627 kcal
+- Cappuccino, 1, 45 kcal
+- Fried egg, 2, 180 kcal
+- Kürbiskernbrötchen, 90 g, 331 kcal
+- Butter, 10 g, 71 kcal
+
+Lunch - 688 kcal
+- Focaccia, 1, 530 kcal
+- Orange Juice, 450 ml, 158 kcal
+
+Snack - 562 kcal
+- Milky Way small, 21.5 g, 98 kcal
+- Cappuccino, 1, 45 kcal
+- Kinder Bueno, 21.5 g, 122 kcal
+- Beer, 0.66 l, 297 kcal
+
+Dinner - 1221 kcal
+- Sauerkraut, 150 g, 20 kcal
+- Jägerschnitzel, 0.5, 160 kcal
+- Bratwurst, 0.5, 149 kcal
+- Mashed potato, 180 g, 158 kcal
+- Beer, 500 ml, 225 kcal
+- Beer, 330 ml, 149 kcal
+- Caipirinha, 1, 270 kcal
+- Beer, 200 ml, 90 kcal
+
+Total: 3098 kcal
+
+Date: 16 February 2025
+
+Breakfast - 1040 kcal
+- Cappuccino, 1, 45 kcal
+- Grapes, 60 g, 40 kcal
+- Tutku, 30 g, 153 kcal
+- Baklava, 43 g, 185 kcal
+- Wafer tubes, 30 g, 167 kcal
+- Pistaccio nuts, 80 g, 450 kcal
+
+Lunch - 633 kcal
+- Lab gai, 80 g, 147 kcal
+- Fanta, 200 ml, 64 kcal
+- Rice, 80 g, 105 kcal
+- Thai Red Curry, 160 g, 206 kcal
+- Wafer tubes, 20 g, 111 kcal
+
+Snack - 540 kcal
+- Rice, 80 g, 105 kcal
+- Thai Red Curry, 100 g, 129 kcal
+- Lab gai, 80 g, 147 kcal
+- Tutku, 10 g, 51 kcal
+- Мираж, 24 g, 108 kcal
+
+Dinner - 376 kcal
+- Jamón Ibérico, 15 g, 48 kcal
+- Grapes, 60 g, 40 kcal
+- Coca cola, 200 ml, 84 kcal
+- Clementine, 1, 35 kcal
+- Pistaccio nuts, 30 g, 169 kcal
+
+Total: 2589 kcal
+
+Date: 17 February 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 900 kcal
+- Pide Meat & Cheese, 1, 900 kcal
+
+Snack - 101 kcal
+- Cappuccino, 1, 45 kcal
+- Praline, 1, 56 kcal
+
+Dinner - 1013 kcal
+- Pickle, 2, 30 kcal
+- Coca cola, 200 ml, 84 kcal
+- Udon noodle, 200 g, 344 kcal
+- Fried egg, 2, 180 kcal
+- Sirene, 15 g, 37 kcal
+- Tomato, 30 g, 6 kcal
+- Tiramisu, 85 g, 332 kcal
+
+Snack 2 - 208 kcal
+- Wafer tubes, 20 g, 112 kcal
+- Schweppes Pomegranate, 300 ml, 96 kcal
+
+Total: 2267 kcal
+
+Date: 18 February 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 839 kcal
+- Pizza, 1, 700 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Snack - 208 kcal
+- Apfelschorle, 330 ml, 93 kcal
+- Clementine, 1, 35 kcal
+- Candy, 20 g, 80 kcal
+
+Dinner - 1582 kcal
+- Beef Burger, 1.2, 840 kcal
+- Sweet Potat Fries, 200 g, 366 kcal
+- Coca cola, 330 ml, 139 kcal
+- Baklava, 55 g, 237 kcal
+
+Total: 2674 kcal
+
+Date: 19 February 2025
+
+Breakfast - 380 kcal
+- Cappuccino, 1, 45 kcal
+- Coca cola, 250 ml, 105 kcal
+- Fried egg, 2, 180 kcal
+- Ham, 50 g, 50 kcal
+
+Snack - 540 kcal
+- Quarkbällchen, 125 g, 540 kcal
+
+Dinner - 989 kcal
+- Pulled noodle beef ramen, 1, 800 kcal
+- Schweppes, 200 ml, 50 kcal
+- Nut Cookie, 24 g, 139 kcal
+
+Snack 2 - 442 kcal
+- Tiramisu, 70 g, 273 kcal
+- Schweppes, 200 ml, 50 kcal
+- Tempura Vegetables, 30 g, 48 kcal
+- Mozzarrella sticks, 70 g, 71 kcal
+
+Total: 2351 kcal
+
+Date: 20 February 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 504 kcal
+- Fried Rice, 150 g, 253 kcal
+- Fried Chicken Breast, 60 g, 112 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Snack - 419 kcal
+- Clementine, 1, 35 kcal
+- Baklava, 43 g, 185 kcal
+- Schlemmerbrötchen, 50 g, 127 kcal
+- Jamón Serrano, 30 g, 72 kcal
+
+Dinner - 1089 kcal
+- Bread, 60 g, 159 kcal
+- Butter, 10 g, 71 kcal
+- Ham, 35 g, 35 kcal
+- Jamón Ibérico, 30 g, 96 kcal
+- Fried egg, 2, 180 kcal
+- Milky Way small, 21.5 g, 98 kcal
+- Pistaccio nuts, 80 g, 450 kcal
+
+Total: 2057 kcal
+
+Date: 21 February 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 688 kcal
+- Focaccia, 1, 530 kcal
+- Orange Juice, 450 ml, 158 kcal
+
+Snack - 176 kcal
+- m&m's, 25 g, 131 kcal
+- Cappuccino, 1, 45 kcal
+
+Dinner - 1043 kcal
+- Cocktail, 2, 200 kcal
+- Beer, 450 ml, 203 kcal
+- Tapas, 1.6, 640 kcal
+
+Total: 1952 kcal
+
+Date: 22 February 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 802 kcal
+- Limo, 0.66 l, 160 kcal
+- Shakshuka, 1, 450 kcal
+- Flatbread, 45 g, 123 kcal
+- Hummus, 30 g, 69 kcal
+
+Snack - 328 kcal
+- Mini Croissants 7 Days, 2, 108 kcal
+- Cappuccino, 1, 45 kcal
+- Rosinenschnecke, 0.5, 175 kcal
+
+Snack 2 - 262 kcal
+- Pistaccio nuts, 30 g, 169 kcal
+- Coca cola, 220 ml, 93 kcal
+
+Dinner - 850 kcal
+- Bread, 60 g, 159 kcal
+- Köfte, 100 g, 290 kcal
+- Peas, 80 g, 64 kcal
+- Sauce, 40 g, 60 kcal
+- Coca cola, 220 ml, 92 kcal
+- Baklava, 43 g, 185 kcal
+
+Total: 2287 kcal
+
+Date: 23 February 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 809 kcal
+- Coca cola, 330 ml, 139 kcal
+- Italian pizza, 0.5, 450 kcal
+- Mozzarrella sticks, 120 g, 122 kcal
+- Mozzarella, 35 g, 98 kcal
+
+Snack - 684 kcal
+- Cappuccino, 1, 45 kcal
+- Coconut Cake, 1, 500 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Dinner - 984 kcal
+- Гювече, 1, 300 kcal
+- Beer, 500 ml, 225 kcal
+- Baklava, 43 g, 185 kcal
+- Pistaccio nuts, 30 g, 169 kcal
+- Juicy, 300 ml, 105 kcal
+
+Total: 2522 kcal
+
+Date: 24 February 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 679 kcal
+- Orange Juice, 200 ml, 70 kcal
+- Bread, 70 g, 185 kcal
+- Sucuk, 20 g, 67 kcal
+- Omelette, 2, 267 kcal
+- Tomato, 50 g, 10 kcal
+- Cheese, 20 g, 80 kcal
+
+Snack - 281 kcal
+- Milk Chocolate, 10 g, 54 kcal
+- Juicy, 250 ml, 88 kcal
+- Nut Cookie, 24 g, 139 kcal
+
+Dinner - 746 kcal
+- Kölsch, 2, 160 kcal
+- Schnitzel, 1.2, 421 kcal
+- Roasted Potato, 80 g, 120 kcal
+- Sauce, 30 g, 45 kcal
+
+Snack 2 - 75 kcal
+- Schweppes, 300 ml, 75 kcal
+
+Total: 1826 kcal
+
+Date: 25 February 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 489 kcal
+- Coca cola, 330 ml, 139 kcal
+- Pizza, 0.5, 350 kcal
+
+Snack - 245 kcal
+- Cappuccino, 1, 45 kcal
+- Pastel de Nata, 1, 200 kcal
+
+Snack 2 - 443 kcal
+- Pizza, 0.5, 350 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Dinner - 714 kcal
+- Coca cola, 330 ml, 139 kcal
+- Sushi, 1, 500 kcal
+- Schweppes, 300 ml, 75 kcal
+
+Total: 1936 kcal
+
+Date: 26 February 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 568 kcal
+- Potato salad, 150 g, 225 kcal
+- Bread, 60 g, 159 kcal
+- Fried Chicken Breast, 40 g, 75 kcal
+- Climaid, 330 ml, 109 kcal
+
+Dinner - 1424 kcal
+- Baked Beans, 250 g, 375 kcal
+- Walnussbrötchen, 68 g, 235 kcal
+- Cheese, 30 g, 120 kcal
+- Sirene, 15 g, 37 kcal
+- Coca cola, 300 ml, 126 kcal
+- Mini Croissants 7 Days, 3, 162 kcal
+- Ferrero Rocher, 1, 78 kcal
+- Schweppes, 300 ml, 75 kcal
+- Milk Chocolate, 40 g, 216 kcal
+
+Total: 2037 kcal
+
+Date: 27 February 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 855 kcal
+- Kürbiskernbrötchen, 55 g, 202 kcal
+- Omelette, 1, 133 kcal
+- Boiled Pasta, 30 g, 40 kcal
+- Cheese, 50 g, 200 kcal
+- Kölsch, 2, 160 kcal
+- Kölsch, 1.5, 120 kcal
+
+Snack - 701 kcal
+- Brezel, 30 g, 83 kcal
+- Cheese, 15 g, 60 kcal
+- Mortadella, 20 g, 64 kcal
+- Coca cola, 250 ml, 105 kcal
+- Butter, 10 g, 71 kcal
+- Kinder Bueno, 21.5 g, 122 kcal
+- Nut Cookie, 5 g, 29 kcal
+- Bread, 30 g, 79 kcal
+- Juicy, 250 ml, 88 kcal
+
+Dinner - 1312 kcal
+- Coca cola, 300 ml, 126 kcal
+- Beer, 330 ml, 149 kcal
+- Cheese Wedge, 4, 337 kcal
+- Beef Burger, 1, 700 kcal
+
+Total: 2913 kcal
+
+Date: 28 February 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 950 kcal
+- Brezel, 40 g, 110 kcal
+- Omelette, 2, 267 kcal
+- Bockwurst, 80 g, 228 kcal
+- Bread, 40 g, 106 kcal
+- Cheese, 25 g, 100 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Snack - 421 kcal
+- Twix, 15 g, 74 kcal
+- Toffifee, 1, 43 kcal
+- Nuts, 30 g, 165 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Dinner - 965 kcal
+- Wine, 450 ml, 369 kcal
+- Pizza, 0.7, 490 kcal
+- Haribo Tropifruit, 20 g, 33 kcal
+- Bounty, 15 g, 73 kcal
+
+Total: 2381 kcal
+
+Date: 1 March 2025
+
+Breakfast - 396 kcal
+- Cappuccino, 1, 45 kcal
+- Italian pizza, 0.25, 225 kcal
+- Coca cola, 300 ml, 126 kcal
+
+Lunch - 828 kcal
+- Climaid, 330 ml, 109 kcal
+- Schawarma Halloumi small, 1, 600 kcal
+- Banica, 25 g, 96 kcal
+- Cappuccino, 0.5, 23 kcal
+
+Snack - 315 kcal
+- Fanta, 200 ml, 64 kcal
+- Toffifee, 3, 129 kcal
+- Kinder Bueno, 21.5 g, 122 kcal
+
+Dinner - 1093 kcal
+- Rice, 80 g, 105 kcal
+- Pork Steak marinated, 120 g, 228 kcal
+- Coca cola, 220 ml, 92 kcal
+- Cucumber salad, 50 g, 17 kcal
+- Wine, 200 ml, 164 kcal
+- Beer, 330 ml, 149 kcal
+- Pop corn, 50 g, 188 kcal
+- Chocolate Cookies, 30 g, 150 kcal
+
+Total: 2632 kcal
+
+Date: 2 March 2025
+
+Breakfast - 270 kcal
+- Cappuccino, 1, 45 kcal
+- Italian pizza, 0.25, 225 kcal
+
+Lunch - 989 kcal
+- Pulled noodle beef ramen, 1, 800 kcal
+- Climaid, 330 ml, 109 kcal
+- Gyoza shrimp, 2, 80 kcal
+
+Beers - 316 kcal
+- Belgian Beer, 250 ml, 158 kcal
+- Belgian Beer, 250 ml, 158 kcal
+
+Dinner - 812 kcal
+- Boiled Pasta, 100 g, 132 kcal
+- Salsiccia, 60 g, 168 kcal
+- Baked Beans, 200 g, 300 kcal
+- Milk Chocolate, 30 g, 162 kcal
+- Schweppes, 200 ml, 50 kcal
+
+Total: 2387 kcal
+
+Date: 3 March 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 630 kcal
+- Fried Rice, 120 g, 202 kcal
+- Fried egg, 1, 90 kcal
+- Cheese, 20 g, 80 kcal
+- Cervelate, 10 g, 36 kcal
+- Sirene, 15 g, 37 kcal
+- Bread, 70 g, 185 kcal
+
+Snack - 435 kcal
+- Quarkbällchen, 50 g, 216 kcal
+- Nut Cookie, 30 g, 174 kcal
+- Cappuccino, 1, 45 kcal
+
+Dinner - 941 kcal
+- Lamb Tikka, 150 g, 240 kcal
+- Rice, 80 g, 105 kcal
+- Naan, 100 g, 290 kcal
+- Schweppes, 500 ml, 125 kcal
+- Mozart Kugel, 20 g, 103 kcal
+- Ferrero Rocher, 1, 78 kcal
+
+Total: 2051 kcal
+
+Date: 4 March 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 1002 kcal
+- Pide Meat & Cheese, 1, 900 kcal
+- Ayran, 300 ml, 102 kcal
+
+Dinner - 987 kcal
+- Banica, 80 g, 306 kcal
+- Pasta with sauce, 60 g, 94 kcal
+- Fried Rice, 150 g, 253 kcal
+- Scrambled egg, 1.5, 150 kcal
+- Cheese, 25 g, 100 kcal
+- Salsiccia, 30 g, 84 kcal
+
+Total: 2034 kcal
+
+Date: 5 March 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 832 kcal
+- Hummus, 100 g, 230 kcal
+- Sirene, 25 g, 61 kcal
+- Falafel (balls), 2, 120 kcal
+- Flatbread, 80 g, 219 kcal
+- Climaid, 330 ml, 109 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Dinner - 675 kcal
+- Italian pizza, 0.5, 450 kcal
+- Beer, 500 ml, 225 kcal
+
+Snack - 150 kcal
+- Chocolate Cookies, 20 g, 100 kcal
+- Chocolate Cookies, 10 g, 50 kcal
+
+Total: 1702 kcal
+
+Date: 6 March 2025
+
+Breakfast - 166 kcal
+- Cappuccino, 1, 45 kcal
+- Banana, 1, 121 kcal
+
+Lunch - 679 kcal
+- Coca cola, 330 ml, 139 kcal
+- Schawarma Anya, 0.6, 540 kcal
+
+Snack - 203 kcal
+- Fanta, 200 ml, 64 kcal
+- Bread, 30 g, 79 kcal
+- Cheese, 15 g, 60 kcal
+
+Dinner - 488 kcal
+- Rice, 120 g, 157 kcal
+- Fried Chicken Breast, 80 g, 150 kcal
+- Sauce, 2, 100 kcal
+- Grilled Vegetables, 100 g, 81 kcal
+
+Snack 2 - 215 kcal
+- Twix, 15 g, 74 kcal
+- Milky Way small, 15 g, 68 kcal
+- Bounty, 15 g, 73 kcal
+
+Total: 1751 kcal
+
+Date: 7 March 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 987 kcal
+- Hambaga, 1, 600 kcal
+- Ice tea, 330 ml, 132 kcal
+- Fries, 60 g, 187 kcal
+- Mayonaise, 10 g, 68 kcal
+
+Snack - 226 kcal
+- Toffifee, 2, 86 kcal
+- Orange Juice, 200 ml, 70 kcal
+- Clementine, 2, 70 kcal
+
+Dinner - 703 kcal
+- Gemüsekebap, 0.4, 400 kcal
+- Banica, 50 g, 192 kcal
+- Burek, 40 g, 111 kcal
+
+Concert - 186 kcal
+- Beer, 330 ml, 149 kcal
+- Limo, 150 ml, 37 kcal
+
+Total: 2147 kcal
+
+Date: 8 March 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 784 kcal
+- Sushi rolls, 16, 560 kcal
+- Wan tan, 2, 72 kcal
+- Ice tea, 300 ml, 120 kcal
+- Fanta, 100 ml, 32 kcal
+
+Snack - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Dinner - 1240 kcal
+- Blin, 4, 440 kcal
+- Cheese, 25 g, 100 kcal
+- Chicken breast, 70 g, 115 kcal
+- Wine, 300 ml, 246 kcal
+- Chocolate milk, 200 ml, 142 kcal
+- Jam, 20 g, 56 kcal
+- Лютеница, 40 g, 60 kcal
+- Nutella, 15 g, 81 kcal
+
+Total: 2114 kcal
+
+Date: 9 March 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 793 kcal
+- Flammkuchen, 1, 700 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Kaffeeklatsch - 661 kcal
+- Cappuccino, 1, 45 kcal
+- Butter Cookie, 60 g, 306 kcal
+- Milka choc&choc, 2, 310 kcal
+
+Dinner - 1018 kcal
+- Baked Beans, 150 g, 225 kcal
+- Banica, 60 g, 230 kcal
+- Bratwurst, 1, 297 kcal
+- Orange Juice, 250 ml, 88 kcal
+- Cheese, 20 g, 80 kcal
+- Milky Way small, 21.5 g, 98 kcal
+
+Total: 2517 kcal
+
+Date: 10 March 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 612 kcal
+- Jägerschnitzel, 1, 320 kcal
+- Mashed potato, 150 g, 132 kcal
+- Kölsch, 2, 160 kcal
+
+Snack - 93 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Snack 2 - 357 kcal
+- Banica, 60 g, 230 kcal
+- Baked Beans, 50 g, 75 kcal
+- Orange Smoothie, 100 ml, 52 kcal
+
+Dinner - 656 kcal
+- Fried Rice, 140 g, 236 kcal
+- Fried Chicken Breast, 40 g, 75 kcal
+- Banica, 60 g, 230 kcal
+- Hummus, 15 g, 35 kcal
+- Orange Juice, 200 ml, 70 kcal
+- Strawberries, 30 g, 10 kcal
+
+Snack 3 - 255 kcal
+- Butter Cookie, 50 g, 255 kcal
+
+Total: 2018 kcal
+
+Date: 11 March 2025
+
+Breakfast - 233 kcal
+- Cappuccino (oatmilk), 1, 120 kcal
+- Clementine, 1, 35 kcal
+- Orange Smoothie, 150 ml, 78 kcal
+
+Lunch - 700 kcal
+- Roast Beef Sandwich, 1, 700 kcal
+
+Dinner - 468 kcal
+- White Wine, 100 ml, 82 kcal
+- Chinese Chicken with Mushrooms, 170 g, 255 kcal
+- Rice, 100 g, 131 kcal
+
+Snack - 296 kcal
+- Butter Cookie, 40 g, 204 kcal
+- Milky Way small, 20 g, 92 kcal
+
+Total: 1697 kcal
+
+Date: 12 March 2025
+
+Breakfast - 238 kcal
+- Cappuccino, 1, 45 kcal
+- Hot Chocolate, 250 ml, 193 kcal
+
+Lunch - 948 kcal
+- Coca cola, 260 ml, 109 kcal
+- Pulled noodles with beef, 1, 700 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Dinner - 909 kcal
+- Lasagne, 1.5, 600 kcal
+- Fanta, 300 ml, 96 kcal
+- Milky Way small, 15 g, 69 kcal
+- Candy, 20 g, 80 kcal
+- Fanta, 200 ml, 64 kcal
+
+Total: 2095 kcal
+
+Date: 13 March 2025
+
+Breakfast - 144 kcal
+- Cappuccino, 1, 45 kcal
+- Climaid, 300 ml, 99 kcal
+
+Lunch - 1013 kcal
+- Pasta Bolognese, 0.55 kg, 715 kcal
+- Bread, 60 g, 159 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Snack - 457 kcal
+- Cappuccino (oatmilk), 1, 120 kcal
+- Butter Cookie, 30 g, 153 kcal
+- Milky Way small, 10 g, 46 kcal
+- Brezel, 50 g, 138 kcal
+
+Dinner - 681 kcal
+- Кюфтета, 120 g, 240 kcal
+- Mini rolls with Cheese, 80 g, 221 kcal
+- Sauce, 2, 100 kcal
+- Haribo Tropifruit, 40 g, 67 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+
+Total: 2295 kcal
+
+Date: 14 March 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 889 kcal
+- Gyros Pita Pommes, 1, 750 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Dinner - 1125 kcal
+- Mini rolls with Cheese, 100 g, 277 kcal
+- Кюфтета, 100 g, 200 kcal
+- Bread, 50 g, 132 kcal
+- Sirene, 25 g, 61 kcal
+- Wiener Wurst, 40 g, 115 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+- Wine, 350 ml, 287 kcal
+
+Snack - 318 kcal
+- Pop corn, 30 g, 113 kcal
+- Wine, 250 ml, 205 kcal
+
+Total: 2377 kcal
+
+Date: 15 March 2025
+
+Breakfast - 181 kcal
+- Cappuccino, 1, 45 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+- Brezel, 30 g, 83 kcal
+
+Lunch - 653 kcal
+- Focaccia, 1, 530 kcal
+- Orange Juice, 220 ml, 77 kcal
+- Milky Way small, 10 g, 46 kcal
+
+Snack - 91 kcal
+- Cappuccino, 1, 45 kcal
+- Milky Way small, 10 g, 46 kcal
+
+Dinner - 1394 kcal
+- Lasagne, 1, 400 kcal
+- Beer, 0.66 l, 297 kcal
+- Cake, 120 g, 480 kcal
+- Wafer, 50 g, 217 kcal
+
+Total: 2319 kcal
+
+Date: 16 March 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 709 kcal
+- Ramen, 1, 600 kcal
+- Climaid, 330 ml, 109 kcal
+
+Snack - 406 kcal
+- Cappuccino, 1, 45 kcal
+- Мишка косолапый конфета, 20 g, 106 kcal
+- Butter Cookie, 30 g, 153 kcal
+- Butter Cookie, 20 g, 102 kcal
+
+Dinner - 1664 kcal
+- Beef Burger, 1, 700 kcal
+- White Wine, 300 ml, 246 kcal
+- Orangina, 300 ml, 117 kcal
+- Fries, 80 g, 250 kcal
+- Milk Chocolate, 40 g, 216 kcal
+- Milk Chocolate, 25 g, 135 kcal
+
+Total: 2824 kcal
+
+Date: 17 March 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 525 kcal
+- Wiener Wurst, 80 g, 230 kcal
+- Fried Rice, 80 g, 135 kcal
+- Babybel, 1, 70 kcal
+- Fried egg, 1, 90 kcal
+
+Snack - 190 kcal
+- Milky Way small, 30 g, 137 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+
+Dinner - 1025 kcal
+- Döner sandwich, 1, 800 kcal
+- Orange Juice, 200 ml, 70 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+- Butter Cookie, 20 g, 102 kcal
+
+Snack 2 - 414 kcal
+- Babybel, 1, 70 kcal
+- Chocomel, 200 ml, 140 kcal
+- Butter Cookie, 40 g, 204 kcal
+
+Total: 2199 kcal
+
+Date: 18 March 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 514 kcal
+- Roasted Potato, 100 g, 150 kcal
+- Bratwurst, 0.8, 238 kcal
+- Coca cola, 300 ml, 126 kcal
+
+Snack - 396 kcal
+- Rahmjohhurt, 120 g, 192 kcal
+- Butter Cookie, 40 g, 204 kcal
+
+Dinner - 1140 kcal
+- Italian pizza, 0.8, 720 kcal
+- Wine, 250 ml, 205 kcal
+- Orange Juice, 220 ml, 77 kcal
+- Eierlikör Praline, 12.5 g, 64 kcal
+- Marmalade, 30 g, 74 kcal
+
+Total: 2095 kcal
+
+Date: 19 March 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 547 kcal
+- Climaid, 330 ml, 109 kcal
+- Fried Rice, 120 g, 202 kcal
+- Fried Chicken Breast, 40 g, 75 kcal
+- Cappuccino, 1, 45 kcal
+- Naan, 40 g, 116 kcal
+
+Snack - 93 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Dinner - 1023 kcal
+- Pad Thai, 0.6, 450 kcal
+- Orange Juice, 330 ml, 116 kcal
+- Wine, 125 ml, 103 kcal
+- Orange Juice, 220 ml, 77 kcal
+- Chocomel, 300 ml, 210 kcal
+- Haribo Tropifruit, 40 g, 67 kcal
+
+Total: 1708 kcal
+
+Date: 20 March 2025
+
+Breakfast - 315 kcal
+- Cappuccino, 1, 45 kcal
+- Italian pizza, 0.3, 270 kcal
+
+Snack - 222 kcal
+- Fanta, 330 ml, 106 kcal
+- Caramel Croissant, 40 g, 116 kcal
+
+Total: 537 kcal
+
+Date: 22 March 2025
+
+Breakfast - 275 kcal
+- Cappuccino, 1, 45 kcal
+- Butter Cookie, 45 g, 230 kcal
+
+Total: 275 kcal
+
+Date: 23 March 2025
+
+Breakfast - 540 kcal
+- Cappuccino, 1, 45 kcal
+- Croissant, 1, 260 kcal
+- Scrambled egg, 2, 200 kcal
+- Smoked Salmon, 30 g, 35 kcal
+
+Lunch - 1432 kcal
+- m&m's, 60 g, 315 kcal
+- Mikado, 40 g, 191 kcal
+- Lahmacun, 240 g, 288 kcal
+- Banica, 40 g, 153 kcal
+- Orange Juice, 0.7 l, 245 kcal
+- Berliner, 60 g, 240 kcal
+
+Snack - 166 kcal
+- Cappuccino, 1, 45 kcal
+- Sponge Cake, 30 g, 89 kcal
+- Condensed milk, 10 g, 32 kcal
+
+Dinner - 357 kcal
+- Fried Rice, 120 g, 202 kcal
+- Fried egg, 1, 90 kcal
+- Stroopwaffel, 15 g, 65 kcal
+
+Total: 2495 kcal
+
+Date: 24 March 2025
+
+Breakfast - 323 kcal
+- Cappuccino, 1, 45 kcal
+- Banica, 35 g, 134 kcal
+- Cheese, 20 g, 80 kcal
+- Mortadella, 20 g, 64 kcal
+
+Lunch - 903 kcal
+- Kürbiskernbrötchen, 55 g, 203 kcal
+- Fried egg, 2, 180 kcal
+- Wachholder Schinken, 20 g, 40 kcal
+- Butter, 10 g, 72 kcal
+- Orange Juice, 500 ml, 175 kcal
+- Stroopwaffel, 30 g, 130 kcal
+- Mozart Kugel, 20 g, 103 kcal
+
+Dinner - 597 kcal
+- Ласточка конфета, 14 g, 56 kcal
+- Pad Thai, 0.6, 450 kcal
+- Sirene, 25 g, 61 kcal
+- Wachholder Schinken, 15 g, 30 kcal
+
+Snack - 398 kcal
+- Condensed milk, 10 g, 32 kcal
+- Sponge Cake, 80 g, 236 kcal
+- Stroopwaffel, 30 g, 130 kcal
+
+Total: 2221 kcal
+
+Date: 25 March 2025
+
+Breakfast - 394 kcal
+- Cappuccino, 1, 45 kcal
+- Greek Yoghurt, 150 g, 174 kcal
+- Müsli, 0.5, 175 kcal
+
+Lunch - 908 kcal
+- Fried egg, 2, 180 kcal
+- Wiener Wurst, 90 g, 260 kcal
+- Kürbiskernbrötchen, 55 g, 203 kcal
+- Orange Juice, 220 ml, 77 kcal
+- Butter, 10 g, 72 kcal
+- Orange Juice, 330 ml, 116 kcal
+
+Snack - 301 kcal
+- Sponge Cake, 80 g, 237 kcal
+- Condensed milk, 20 g, 64 kcal
+
+Dinner - 1060 kcal
+- Cheese, 20 g, 80 kcal
+- Baked Beans, 200 g, 300 kcal
+- Баница със сирене, 90 g, 226 kcal
+- Sponge Cake, 80 g, 236 kcal
+- Condensed milk, 10 g, 32 kcal
+- Chips, 35 g, 186 kcal
+
+Total: 2663 kcal
+
+Date: 26 March 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 639 kcal
+- Coca cola, 330 ml, 139 kcal
+- Pasta al Forno, 350 g, 500 kcal
+
+Snack - 329 kcal
+- Climaid, 300 ml, 99 kcal
+- Stroopwaffel, 30 g, 130 kcal
+- Wachholder Schinken, 30 g, 60 kcal
+- Cheese, 10 g, 40 kcal
+
+Concert - 780 kcal
+- Beer, 400 ml, 180 kcal
+- Schawarma Halloumi small, 1, 600 kcal
+
+Total: 1793 kcal
+
+Date: 27 March 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 802 kcal
+- Fried Salmon, 150 g, 380 kcal
+- Walnussbrötchen, 68 g, 235 kcal
+- Cucumber salad, 80 g, 27 kcal
+- Olive oil, 10 ml, 88 kcal
+- Butter, 10 g, 72 kcal
+
+Snack - 374 kcal
+- Choco fresh, 21 g, 122 kcal
+- Stroopwaffel, 30 g, 130 kcal
+- Choco fresh, 21 g, 122 kcal
+
+Dinner - 1154 kcal
+- Hot dog bun, 90 g, 301 kcal
+- Wiener Wurst, 120 g, 346 kcal
+- Onion Rings, 4, 200 kcal
+- Mayonaise, 10 g, 68 kcal
+- Milk Chocolate, 20 g, 108 kcal
+- m&m's, 25 g, 131 kcal
+
+Total: 2375 kcal
+
+Date: 28 March 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 872 kcal
+- Walnussbrötchen, 68 g, 235 kcal
+- Fried egg, 1, 90 kcal
+- Cheese, 20 g, 80 kcal
+- Wiener Wurst, 50 g, 144 kcal
+- Orange Smoothie, 150 ml, 78 kcal
+- m&m's, 30 g, 157 kcal
+- Juice multifruit, 200 ml, 88 kcal
+
+Snack - 199 kcal
+- Mars, 18 g, 80 kcal
+- Twix, 15 g, 74 kcal
+- Cappuccino, 1, 45 kcal
+
+Dinner - 1082 kcal
+- Beef Burger, 1, 700 kcal
+- Fries, 60 g, 187 kcal
+- Stroopwaffel, 45 g, 195 kcal
+
+Total: 2198 kcal
+
+Date: 29 March 2025
+
+Breakfast - 243 kcal
+- Cappuccino, 1, 45 kcal
+- Banica, 40 g, 153 kcal
+- Strawberry Jam, 20 g, 45 kcal
+
+Lunch - 779 kcal
+- Döner sandwich, 0.8, 640 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Snack - 807 kcal
+- Cake, 100 g, 400 kcal
+- Belgian Beer, 330 ml, 208 kcal
+- Sekt, 350 ml, 199 kcal
+
+Dinner - 1045 kcal
+- Boiled Pasta, 130 g, 171 kcal
+- Baked Beans, 200 g, 300 kcal
+- Salsiccia, 80 g, 224 kcal
+- Choco fresh, 42 g, 244 kcal
+- Fanta, 330 ml, 106 kcal
+
+Total: 2874 kcal
+
+Date: 30 March 2025
+
+Breakfast - 175 kcal
+- Cappuccino, 1, 45 kcal
+- Stroopwaffel, 30 g, 130 kcal
+
+Lunch - 766 kcal
+- Thai Duck with rice, 1, 700 kcal
+- Juice multifruit, 150 ml, 66 kcal
+
+Dinner - 1082 kcal
+- Kebapche, 140 g, 420 kcal
+- Mashed potato, 130 g, 114 kcal
+- Fried Bacon, 25 g, 138 kcal
+- Schweppes, 0.6 l, 150 kcal
+- Stroopwaffel, 30 g, 130 kcal
+- Stroopwaffel, 30 g, 130 kcal
+
+Total: 2023 kcal
+
+Date: 31 March 2025
+
+Breakfast - 459 kcal
+- Cappuccino, 1, 45 kcal
+- Fried egg, 2, 180 kcal
+- Hot dog bun, 45 g, 151 kcal
+- Strawberry Jam, 10 g, 23 kcal
+- Cheese, 15 g, 60 kcal
+
+Lunch - 533 kcal
+- Sushi, 200 g, 322 kcal
+- Orange Juice, 220 ml, 77 kcal
+- Chocolate Cookies, 20 g, 100 kcal
+- Strawberry Jam, 15 g, 34 kcal
+
+Snack - 330 kcal
+- Leibniz Cookies, 40 g, 200 kcal
+- Black Tea, 1 l, 0 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+- Orange Juice, 220 ml, 77 kcal
+
+Dinner - 409 kcal
+- Rice, 100 g, 131 kcal
+- Kebapche, 70 g, 210 kcal
+- Milk Chocolate, 10 g, 54 kcal
+- Tomato, 70 g, 14 kcal
+
+Total: 1731 kcal
+
+Date: 1 April 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 1009 kcal
+- Pide Meat & Cheese, 1, 900 kcal
+- Climaid, 330 ml, 109 kcal
+
+Dinner - 900 kcal
+- Italian pizza, 1, 900 kcal
+
+Snack - 198 kcal
+- Orange Juice, 220 ml, 77 kcal
+- Tuc, 25 g, 121 kcal
+
+Total: 2152 kcal
+
+Date: 2 April 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 450 kcal
+- Thai Red Curry, 350 g, 450 kcal
+- Cola zero, 1, 0 kcal
+
+Snack - 214 kcal
+- Plum, 1, 40 kcal
+- Banana, 1, 121 kcal
+- Cola zero, 1, 0 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+
+Dinner - 900 kcal
+- Bulgogi (korean beef), 1.5, 675 kcal
+- Beer, 500 ml, 225 kcal
+
+Snack 2 - 237 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+- Milk Chocolate, 10 g, 54 kcal
+- Stroopwaffel, 30 g, 130 kcal
+
+Total: 1846 kcal
+
+Date: 3 April 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 629 kcal
+- Climaid, 330 ml, 109 kcal
+- Pasta Bolognese, 400 g, 520 kcal
+
+Snack - 98 kcal
+- Cappuccino, 1, 45 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+
+Dinner - 810 kcal
+- Mozzarella, 25 g, 70 kcal
+- Orange Juice, 200 ml, 70 kcal
+- Mortadella, 20 g, 64 kcal
+- Schlemmerbrötchen, 60 g, 153 kcal
+- Rice, 40 g, 53 kcal
+- Baked Beans, 150 g, 226 kcal
+- Tuc, 25 g, 121 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+
+Snack 2 - 613 kcal
+- Stroopwaffel, 60 g, 259 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+- Tuc, 40 g, 194 kcal
+- Milk Chocolate, 10 g, 54 kcal
+
+Total: 2195 kcal
+
+Date: 4 April 2025
+
+Breakfast - 458 kcal
+- Brötchen (normal), 55 g, 149 kcal
+- Scrambled egg, 2, 200 kcal
+- Mortadella, 20 g, 64 kcal
+- Cappuccino, 1, 45 kcal
+
+Snack - 380 kcal
+- Brezel with butter, 1, 300 kcal
+- Cheese, 20 g, 80 kcal
+
+Snack 2 - 689 kcal
+- Poutine turkey, 1, 550 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Dinner - 1565 kcal
+- Taco Beef, 2, 440 kcal
+- Beer, 2 l, 900 kcal
+- Beer, 500 ml, 225 kcal
+
+Total: 3092 kcal
+
+Date: 5 April 2025
+
+Breakfast - 893 kcal
+- Cappuccino, 1, 45 kcal
+- Walnussbrötchen, 68 g, 235 kcal
+- Walnussbrötchen, 34 g, 118 kcal
+- Scrambled egg, 2, 200 kcal
+- Butter, 15 g, 107 kcal
+- Cheese, 25 g, 100 kcal
+- Wachholder Schinken, 30 g, 60 kcal
+- Jam, 10 g, 28 kcal
+
+Lunch - 635 kcal
+- Coca cola, 330 ml, 139 kcal
+- Baked Fish, 60 g, 150 kcal
+- Hot dog bun, 90 g, 301 kcal
+- Sauce, 30 g, 45 kcal
+
+Snack 2 - 500 kcal
+- Leibniz Cookies, 60 g, 300 kcal
+- Pastel de Nata, 1, 200 kcal
+
+Dinner - 310 kcal
+- Thai Cashew Chicken, 200 g, 218 kcal
+- Lab gai, 50 g, 92 kcal
+
+Total: 2338 kcal
+
+Date: 6 April 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 669 kcal
+- Flammkuchen, 0.8, 560 kcal
+- Climaid, 330 ml, 109 kcal
+
+Snack - 175 kcal
+- Cappuccino, 1, 45 kcal
+- Ice cream waffle cone, 1, 130 kcal
+
+Dinner - 538 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+- Rice, 80 g, 105 kcal
+- Thai Cashew Chicken, 300 g, 327 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+
+Total: 1427 kcal
+
+Date: 7 April 2025
+
+Breakfast - 538 kcal
+- Cappuccino, 1, 45 kcal
+- Rosinenweggli, 78 g, 263 kcal
+- Banana, 1, 121 kcal
+- Climaid, 330 ml, 109 kcal
+
+Lunch - 472 kcal
+- Pasta with sauce, 300 g, 472 kcal
+
+Snack - 230 kcal
+- Stroopwaffel, 30 g, 130 kcal
+- Leibniz Cookies, 20 g, 100 kcal
+
+Dinner - 1044 kcal
+- Kölsch, 4, 320 kcal
+- Bratwurst, 1, 297 kcal
+- Sauce, 40 g, 60 kcal
+- Fries, 90 g, 281 kcal
+- Baklava, 20 g, 86 kcal
+
+Total: 2284 kcal
+
+Date: 8 April 2025
+
+Breakfast - 117 kcal
+- Cappuccino, 1, 45 kcal
+- Yogurette, 13 g, 72 kcal
+
+Lunch - 547 kcal
+- Thai Cashew Chicken, 230 g, 251 kcal
+- Coca cola, 330 ml, 139 kcal
+- Rice, 120 g, 157 kcal
+
+Snack - 255 kcal
+- Apfelschorle, 330 ml, 93 kcal
+- Mini Croissants 7 Days, 3, 162 kcal
+
+Dinner - 1015 kcal
+- Blin, 3, 330 kcal
+- Cheese, 30 g, 120 kcal
+- Sirene, 20 g, 49 kcal
+- Coca cola, 250 ml, 105 kcal
+- Orange Juice, 270 ml, 95 kcal
+- Liqueur, 30 ml, 103 kcal
+- Olivier salad, 60 g, 213 kcal
+
+Snack 2 - 108 kcal
+- Mini Croissants 7 Days, 2, 108 kcal
+
+Total: 2042 kcal
+
+Date: 9 April 2025
+
+Breakfast - 145 kcal
+- Cappuccino, 1, 45 kcal
+- Apple, 1, 100 kcal
+
+Lunch - 600 kcal
+- Fish bowl, 1, 600 kcal
+- Cola zero, 1, 0 kcal
+
+Snack - 154 kcal
+- Mars, 18 g, 80 kcal
+- Twix, 15 g, 74 kcal
+
+Dinner - 1379 kcal
+- Beef Burger, 1, 700 kcal
+- Onion Rings, 3, 150 kcal
+- Fries, 80 g, 250 kcal
+- White Wine, 200 ml, 164 kcal
+- Mars, 18 g, 80 kcal
+- Twix, 7 g, 35 kcal
+
+Total: 2278 kcal
+
+Date: 10 April 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 545 kcal
+- Nigiri, 5, 265 kcal
+- Sushi rolls, 8, 280 kcal
+- Black Tea, 1 l, 0 kcal
+
+Snack - 109 kcal
+- Climaid, 330 ml, 109 kcal
+
+Dinner - 1354 kcal
+- Blin, 3, 330 kcal
+- Wiener Wurst, 80 g, 230 kcal
+- Bitterballen Cheese, 3, 228 kcal
+- Wine, 380 ml, 312 kcal
+- Мишка косолапый конфета, 20 g, 106 kcal
+- Jam, 10 g, 28 kcal
+- Cheese, 30 g, 120 kcal
+
+Total: 2053 kcal
+
+Date: 11 April 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 507 kcal
+- Stroopwaffel, 45 g, 195 kcal
+- Omelette, 1, 133 kcal
+- Wiener Wurst, 60 g, 173 kcal
+- Tomato, 30 g, 6 kcal
+
+Snack - 152 kcal
+- Cappuccino, 1, 45 kcal
+- Milk Chocolate, 10 g, 54 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+
+Dinner - 684 kcal
+- Pizza, 0.7, 490 kcal
+- Olive oil, 10 ml, 88 kcal
+- Мишка косолапый конфета, 20 g, 106 kcal
+
+Total: 1388 kcal
+
+Date: 12 April 2025
+
+Breakfast - 255 kcal
+- Cappuccino, 1, 45 kcal
+- Pizza, 0.3, 210 kcal
+
+Lunch - 749 kcal
+- Ramen, 1, 600 kcal
+- Beer, 330 ml, 149 kcal
+
+Snack - 250 kcal
+- Large Cappuccino, 1, 150 kcal
+- Damla Cookie, 25 g, 100 kcal
+
+Dinner - 1240 kcal
+- Cucumber salad, 80 g, 27 kcal
+- Sirene, 25 g, 61 kcal
+- Fries, 90 g, 281 kcal
+- Beer, 1 l, 450 kcal
+- Кюфтета, 80 g, 160 kcal
+- Grilled Vegetables, 100 g, 81 kcal
+- Kebapche, 60 g, 180 kcal
+
+Total: 2494 kcal
+
+Date: 13 April 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 723 kcal
+- Pizza, 0.3, 210 kcal
+- Mini rolls with Cheese, 80 g, 221 kcal
+- Cheese, 35 g, 140 kcal
+- Bitterballen Cheese, 2, 152 kcal
+
+Snack - 151 kcal
+- Cappuccino, 1, 45 kcal
+- Мишка косолапый конфета, 20 g, 106 kcal
+
+Dinner - 825 kcal
+- Fries, 50 g, 156 kcal
+- Кюфтета, 60 g, 120 kcal
+- Fried Chicken Breast, 45 g, 84 kcal
+- Choco fresh, 42 g, 244 kcal
+- Mini rolls with Cheese, 80 g, 221 kcal
+
+Snack 2 - 164 kcal
+- Lays Chips, 20 g, 111 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+
+Total: 1908 kcal
+
+Date: 14 April 2025
+
+Breakfast - 138 kcal
+- Cappuccino, 1, 45 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Lunch - 487 kcal
+- Burrito, 1.5, 375 kcal
+- Nachos, 20 g, 80 kcal
+- Cola zero, 1, 0 kcal
+- Сметана, 20 g, 32 kcal
+
+Snack - 742 kcal
+- Pastel de Nata, 1, 200 kcal
+- Matcha Latte, 1, 120 kcal
+- Orange Juice, 300 ml, 106 kcal
+- Ferrero Rocher, 1, 78 kcal
+- Liqueur, 20 ml, 69 kcal
+- Cheese, 25 g, 100 kcal
+- Liqueur, 20 ml, 69 kcal
+
+Dinner - 881 kcal
+- Cheese, 40 g, 160 kcal
+- Tuna in oil, 85 g, 170 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+- Ferrero Rocher, 1, 78 kcal
+- Orange Juice, 200 ml, 70 kcal
+- Tuc, 50 g, 242 kcal
+- Milk Chocolate, 20 g, 108 kcal
+
+Total: 2248 kcal
+
+Date: 15 April 2025
+
+Breakfast - 166 kcal
+- Cappuccino, 1, 45 kcal
+- Banana, 1, 121 kcal
+
+Lunch - 569 kcal
+- Rice, 120 g, 157 kcal
+- Thai Cashew Chicken, 250 g, 273 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Dinner - 1087 kcal
+- Mini rolls with Cheese, 15 g, 42 kcal
+- Mini rolls with Cheese, 30 g, 83 kcal
+- Brötchen (normal), 25 g, 68 kcal
+- Baked Beans, 200 g, 300 kcal
+- Sirene, 30 g, 73 kcal
+- Climaid, 400 ml, 132 kcal
+- Fried Bacon, 25 g, 138 kcal
+- Baklava, 43 g, 185 kcal
+- Climaid, 200 ml, 66 kcal
+
+Total: 1822 kcal
+
+Date: 16 April 2025
+
+Breakfast - 407 kcal
+- Cappuccino, 1, 45 kcal
+- Tutku, 20 g, 102 kcal
+- Coca cola, 330 ml, 139 kcal
+- Banana, 1, 121 kcal
+
+Lunch - 626 kcal
+- Lasagne, 1, 400 kcal
+- Fanta, 330 ml, 106 kcal
+- Cheese, 30 g, 120 kcal
+
+Snack - 153 kcal
+- Kinder Bueno, 10 g, 57 kcal
+- Cappuccino, 1, 45 kcal
+- Tutku, 10 g, 51 kcal
+
+Dinner - 1143 kcal
+- Jam cookie, 1, 90 kcal
+- Climaid, 200 ml, 66 kcal
+- Climaid, 200 ml, 66 kcal
+- Fries, 50 g, 156 kcal
+- Beef Burger, 0.7, 490 kcal
+- Baklava, 43 g, 185 kcal
+- Jam cookie, 1, 90 kcal
+
+Total: 2329 kcal
+
+Date: 17 April 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 777 kcal
+- Banger sausage, 1, 266 kcal
+- Mashed potato, 200 g, 176 kcal
+- Guinness, 300 ml, 110 kcal
+- Beer, 500 ml, 225 kcal
+
+Dinner - 1798 kcal
+- Burrito, 1, 250 kcal
+- Croissant, 1, 260 kcal
+- Croissant, 0.5, 130 kcal
+- Chips, 50 g, 266 kcal
+- Banica, 80 g, 306 kcal
+- Toffifee, 1, 43 kcal
+- White Wine, 200 ml, 164 kcal
+- Kinder Schoko Bons, 1, 33 kcal
+- Kinder Schoko Bons, 2, 66 kcal
+- Gin Tonic, 400 ml, 280 kcal
+
+Total: 2620 kcal
+
+Date: 18 April 2025
+
+Breakfast - 443 kcal
+- Cappuccino, 1, 45 kcal
+- Orange Juice, 200 ml, 70 kcal
+- Toast, 2, 160 kcal
+- Strawberry Jam, 30 g, 68 kcal
+- Cheese, 25 g, 100 kcal
+
+Lunch - 786 kcal
+- Ice tea, 330 ml, 132 kcal
+- Karaage, 30 g, 38 kcal
+- Fried Chicken Thigh, 120 g, 216 kcal
+- Sauce, 30 g, 45 kcal
+- Udon noodle, 150 g, 258 kcal
+- Tempura Vegetables, 60 g, 97 kcal
+
+Dinner - 681 kcal
+- Scrambled egg, 1.5, 150 kcal
+- Wiener Wurst, 40 g, 115 kcal
+- Jägerschnitzel, 0.5, 160 kcal
+- Peach Juice, 400 ml, 156 kcal
+- Haribo Tropifruit, 60 g, 100 kcal
+
+Snack 2 - 460 kcal
+- Cappuccino, 1, 45 kcal
+- Baklava, 43 g, 185 kcal
+- Butter Cookie, 45 g, 230 kcal
+
+Total: 2370 kcal
+
+Date: 19 April 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 598 kcal
+- Coca cola, 330 ml, 139 kcal
+- Poached Egg, 2, 140 kcal
+- Bread, 60 g, 159 kcal
+- Butter, 15 g, 107 kcal
+- Salmon, 20 g, 29 kcal
+- Avocado, 15 g, 24 kcal
+
+Dinner - 690 kcal
+- Blin, 4, 440 kcal
+- Sirene, 30 g, 73 kcal
+- Cheese, 25 g, 100 kcal
+- Orange Juice, 220 ml, 77 kcal
+
+Snack - 262 kcal
+- Orange Juice, 220 ml, 77 kcal
+- Baklava, 43 g, 185 kcal
+
+Snack 2 - 658 kcal
+- Ice cream waffle cone, 1, 130 kcal
+- Ice cream ball, 1, 120 kcal
+- Butter Cookie, 80 g, 408 kcal
+
+Total: 2253 kcal
+
+Date: 20 April 2025
+
+Breakfast - 147 kcal
+- Cappuccino, 1, 45 kcal
+- Butter Cookie, 20 g, 102 kcal
+
+Lunch - 827 kcal
+- Pizza, 0.5, 350 kcal
+- Focaccia, 0.5, 265 kcal
+- Beer, 330 ml, 149 kcal
+- Coca cola, 150 ml, 63 kcal
+
+Dinner - 1201 kcal
+- Baked Potato, 80 g, 75 kcal
+- White sausage, 120 g, 277 kcal
+- Coca cola, 500 ml, 210 kcal
+- Cheese, 30 g, 120 kcal
+- Sirene, 30 g, 73 kcal
+- Butter Cookie, 50 g, 255 kcal
+- Mikado, 40 g, 191 kcal
+
+Total: 2175 kcal
+
+Date: 21 April 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 707 kcal
+- Sirene, 30 g, 73 kcal
+- Tomato, 50 g, 10 kcal
+- Baked Beans, 50 g, 75 kcal
+- Cheese, 25 g, 100 kcal
+- Tuna in oil, 25 g, 50 kcal
+- Orange Juice, 220 ml, 77 kcal
+- Blin, 2, 220 kcal
+- Tutku, 20 g, 102 kcal
+
+Snack - 1017 kcal
+- Sandwich Mozzarella Ham, 0.4, 240 kcal
+- Sekt, 210 ml, 119 kcal
+- Scone, 1, 80 kcal
+- Jam, 30 g, 84 kcal
+- Spezi, 250 ml, 95 kcal
+- Marmorkuchen, 30 g, 125 kcal
+- Beer, 330 ml, 149 kcal
+- Marmorkuchen, 30 g, 125 kcal
+
+Dinner - 1002 kcal
+- Döner sandwich, 1, 800 kcal
+- Beer, 330 ml, 149 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+
+Total: 2771 kcal
+
+Date: 22 April 2025
+
+Breakfast - 107 kcal
+- Cappuccino, 1, 45 kcal
+- Orange, 1, 62 kcal
+
+Lunch - 398 kcal
+- Rice, 80 g, 105 kcal
+- Thai Red Curry, 200 g, 257 kcal
+- Limo, 150 ml, 36 kcal
+
+Dinner - 631 kcal
+- Boiled Pasta, 130 g, 171 kcal
+- Baked Beans, 200 g, 300 kcal
+- Cheese, 40 g, 160 kcal
+
+Snack - 784 kcal
+- Baklava, 43 g, 185 kcal
+- Butter Cookie, 45 g, 230 kcal
+- Wafer, 50 g, 217 kcal
+- Orange Juice, 220 ml, 77 kcal
+- Cured Sausage, 25 g, 75 kcal
+
+Total: 1920 kcal
+
+Date: 23 April 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 566 kcal
+- Mashed potato, 80 g, 70 kcal
+- Fried Salmon, 120 g, 303 kcal
+- Fried broccoli, 80 g, 100 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Snack - 80 kcal
+- Cappuccino, 1, 45 kcal
+- Clementine, 1, 35 kcal
+
+Dinner - 493 kcal
+- Pasta with sauce, 200 g, 315 kcal
+- Fried egg, 1, 90 kcal
+- Orange Juice, 250 ml, 88 kcal
+
+Snack 2 - 425 kcal
+- Sahne Pudding, 150 g, 225 kcal
+- Liqueur, 20 ml, 69 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+- Ferrero Rocher, 1, 78 kcal
+
+Total: 1609 kcal
+
+Date: 24 April 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 662 kcal
+- Rice, 150 g, 196 kcal
+- Coca cola, 330 ml, 139 kcal
+- Thai Cashew Chicken, 300 g, 327 kcal
+
+Dinner - 1171 kcal
+- Beef Burger, 0.8, 560 kcal
+- Gin Tonic, 500 ml, 350 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+- Wafer, 30 g, 130 kcal
+- Ferrero Rocher, 1, 78 kcal
+
+Total: 1878 kcal
+
+Date: 25 April 2025
+
+Breakfast - 986 kcal
+- Cappuccino, 1, 45 kcal
+- Orange Juice, 200 ml, 70 kcal
+- Fried egg, 2, 180 kcal
+- Fried Bacon, 25 g, 138 kcal
+- Burger bun, 50 g, 150 kcal
+- Camambert Cheese, 30 g, 66 kcal
+- Laugenstange mit Käse, 1, 337 kcal
+
+Lunch - 1055 kcal
+- Bao Bun large, 1, 200 kcal
+- Chicken breast fried, 70 g, 175 kcal
+- Rice, 100 g, 131 kcal
+- San Yuk Pao, 2, 400 kcal
+- Beer, 330 ml, 149 kcal
+
+Snack - 249 kcal
+- Beer, 400 ml, 180 kcal
+- Liqueur, 20 ml, 69 kcal
+
+Dinner - 880 kcal
+- Baked Cabbage, 2, 200 kcal
+- Mozzarrella sticks, 70 g, 71 kcal
+- Climaid, 330 ml, 109 kcal
+- Soju, 60 ml, 108 kcal
+- Sweet and sour Chicken, 100 g, 250 kcal
+- Pork fried, 50 g, 142 kcal
+
+Snack 2 - 368 kcal
+- Orange Juice, 400 ml, 140 kcal
+- Corny Schoko-Banana, 50 g, 228 kcal
+
+Total: 3538 kcal
+
+Date: 26 April 2025
+
+Breakfast - 631 kcal
+- Haribo Bananas, 40 g, 151 kcal
+- Fried egg, 2, 180 kcal
+- Toast, 2, 160 kcal
+- Orange Juice, 400 ml, 140 kcal
+
+King's Day - 1291 kcal
+- Beer, 1.2 l, 540 kcal
+- m&m's, 80 g, 420 kcal
+- Kürbiskernbrötchen, 90 g, 331 kcal
+
+Dinner - 1534 kcal
+- Beef Burger, 0.7, 490 kcal
+- Fries, 50 g, 156 kcal
+- Coca cola, 0.66 l, 277 kcal
+- Double cheeseburger, 1, 460 kcal
+- Haribo Bananas, 40 g, 151 kcal
+
+Total: 3456 kcal
+
+Date: 27 April 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 679 kcal
+- Chicken Sandwich, 50 g, 142 kcal
+- Haribo Bananas, 40 g, 151 kcal
+- Coca cola, 330 ml, 139 kcal
+- Laugenstange mit Käse, 0.5, 169 kcal
+- Ferrero Rocher, 1, 78 kcal
+
+Snack - 395 kcal
+- Rosinenschnecke, 1, 350 kcal
+- Cappuccino, 1, 45 kcal
+
+Total: 1119 kcal
+
+Date: 28 April 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 429 kcal
+- Fried Chicken Breast, 80 g, 150 kcal
+- Rice, 60 g, 78 kcal
+- Coca cola, 330 ml, 139 kcal
+- Orange, 1, 62 kcal
+
+Snack - 309 kcal
+- Orange Juice, 150 ml, 53 kcal
+- Cappuccino, 1, 45 kcal
+- Pizza, 0.3, 211 kcal
+
+Dinner - 798 kcal
+- Tonic water, 200 ml, 80 kcal
+- Pizza, 0.3, 211 kcal
+- Pistaccio nuts, 90 g, 507 kcal
+
+Total: 1581 kcal
+
+Date: 30 April 2025
+
+Breakfast - 639 kcal
+- Cappuccino, 1, 45 kcal
+- Boiled Pasta, 100 g, 132 kcal
+- Fried egg, 2, 180 kcal
+- Cheese, 30 g, 120 kcal
+- White chocolate, 30 g, 162 kcal
+
+Lunch - 648 kcal
+- Laugenstange, 100 g, 284 kcal
+- Wachholder Schinken, 30 g, 60 kcal
+- Coca cola, 400 ml, 168 kcal
+- Camambert Cheese, 30 g, 66 kcal
+- Clementine, 2, 70 kcal
+
+Snack - 84 kcal
+- Coca cola, 200 ml, 84 kcal
+
+Dinner - 1287 kcal
+- Climaid, 200 ml, 66 kcal
+- Coca cola, 200 ml, 84 kcal
+- Milk Chocolate, 30 g, 162 kcal
+- Gin Tonic, 300 ml, 210 kcal
+- Udon noodle, 200 g, 344 kcal
+- Pork Sausage fried, 70 g, 211 kcal
+- Gin Tonic, 300 ml, 210 kcal
+
+Total: 2658 kcal
+
+Date: 1 May 2025
+
+Breakfast - 145 kcal
+- Cappuccino, 1, 45 kcal
+- Orange Juice, 200 ml, 70 kcal
+- Ham, 30 g, 30 kcal
+
+Lunch - 900 kcal
+- Big Mac, 1, 545 kcal
+- Coca cola, 400 ml, 168 kcal
+- Fries, 60 g, 187 kcal
+
+Snack - 348 kcal
+- Eclair, 1, 250 kcal
+- Cappuccino, 1, 45 kcal
+- Orange Juice, 150 ml, 53 kcal
+
+Dinner - 599 kcal
+- Climaid, 400 ml, 133 kcal
+- Thai Red Curry, 280 g, 361 kcal
+- Rice, 80 g, 105 kcal
+
+Total: 1992 kcal
+
+Date: 2 May 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 680 kcal
+- Coca cola, 330 ml, 139 kcal
+- Almdudler, 350 ml, 137 kcal
+- Rice, 40 g, 52 kcal
+- Quesadilla, 120 g, 352 kcal
+
+Dinner - 827 kcal
+- Italian pizza, 0.75, 675 kcal
+- Orange Juice, 250 ml, 88 kcal
+- Schweppes Pomegranate, 200 ml, 64 kcal
+
+Snack - 452 kcal
+- Sekt, 210 ml, 119 kcal
+- Magnum Ice Cream Almond, 1, 250 kcal
+- Marmorkuchen, 20 g, 83 kcal
+
+Total: 2004 kcal
+
+Date: 3 May 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 873 kcal
+- Italian pizza, 0.3, 270 kcal
+- Bread, 50 g, 133 kcal
+- Cheese, 50 g, 200 kcal
+- Coca cola, 150 ml, 63 kcal
+- Ham, 25 g, 25 kcal
+- Rice, 40 g, 53 kcal
+- Thai Red Curry, 100 g, 129 kcal
+
+Dinner - 1448 kcal
+- Baked Beans, 250 g, 375 kcal
+- White sausage, 180 g, 416 kcal
+- Beer, 0.75 l, 338 kcal
+- Mini rolls with Cheese, 90 g, 250 kcal
+- Wynand Fockink, 20 ml, 69 kcal
+
+Total: 2366 kcal
+
+Date: 4 May 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 825 kcal
+- Schawarma Anya, 0.8, 720 kcal
+- Orange Juice, 300 ml, 105 kcal
+
+Snack - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Dinner - 1436 kcal
+- Pulled noodle beef ramen, 1, 800 kcal
+- Karaage, 60 g, 76 kcal
+- Beer, 1 l, 450 kcal
+- Guinness, 300 ml, 110 kcal
+
+Total: 2351 kcal
+
+Date: 5 May 2025
+
+Breakfast - 138 kcal
+- Cappuccino, 1, 45 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Lunch - 399 kcal
+- Coca cola, 330 ml, 139 kcal
+- Fried Chicken Thigh, 80 g, 144 kcal
+- Baked Potato, 80 g, 75 kcal
+- Grilled Vegetables, 50 g, 41 kcal
+
+Dinner - 922 kcal
+- Rice, 80 g, 105 kcal
+- Fried shrimp, 60 g, 69 kcal
+- Fried Salmon, 120 g, 303 kcal
+- Beer, 250 ml, 113 kcal
+- Orange Juice, 250 ml, 88 kcal
+- Choco fresh, 42 g, 244 kcal
+
+Snack - 189 kcal
+- Laugenecke, 40 g, 129 kcal
+- Ham, 20 g, 20 kcal
+- Cheese, 10 g, 40 kcal
+
+Total: 1648 kcal
+
+Date: 6 May 2025
+
+Breakfast - 594 kcal
+- Cappuccino, 1, 45 kcal
+- Laugenecke, 120 g, 387 kcal
+- Hummus, 20 g, 46 kcal
+- Cheese, 15 g, 60 kcal
+- Jam, 20 g, 56 kcal
+
+Flight - 383 kcal
+- Snickers, 50 g, 244 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Dinner - 556 kcal
+- Wine, 130 ml, 107 kcal
+- Bulgur, 60 g, 50 kcal
+- Mince, 100 g, 240 kcal
+- Bread, 60 g, 159 kcal
+
+Snack - 503 kcal
+- Croissant Ham&Cheese, 1, 350 kcal
+- Cappuccino, 1, 45 kcal
+- Milk Chocolate, 20 g, 108 kcal
+
+Total: 2036 kcal
+
+Date: 7 May 2025
+
+Breakfast - 424 kcal
+- Cappuccino, 1, 45 kcal
+- Orange Juice, 200 ml, 70 kcal
+- Fried egg, 2, 180 kcal
+- Tomato, 50 g, 10 kcal
+- Bread, 45 g, 119 kcal
+
+Lunch - 716 kcal
+- Adana Kebab, 0.8, 560 kcal
+- Coca cola, 330 ml, 139 kcal
+- Strawberries, 50 g, 17 kcal
+
+Snack - 699 kcal
+- Baklava, 120 g, 516 kcal
+- Guinness, 500 ml, 183 kcal
+
+Dinner - 414 kcal
+- Bread, 100 g, 264 kcal
+- Baked Fish, 60 g, 150 kcal
+
+Total: 2253 kcal
+
+Date: 8 May 2025
+
+Breakfast - 553 kcal
+- Sucuk, 30 g, 100 kcal
+- Fried egg, 2, 180 kcal
+- Cappuccino, 1, 45 kcal
+- Bread, 60 g, 159 kcal
+- Hummus, 30 g, 69 kcal
+
+Tea - 464 kcal
+- Baklava, 80 g, 344 kcal
+- Ice cream ball, 1, 120 kcal
+
+Lunch - 553 kcal
+- Lamb Shish Kebab, 1, 250 kcal
+- Rice, 60 g, 78 kcal
+- Beer, 500 ml, 225 kcal
+
+Dinner - 859 kcal
+- Italian pizza, 0.8, 720 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Total: 2429 kcal
+
+Date: 9 May 2025
+
+Breakfast - 727 kcal
+- Flatbread, 45 g, 123 kcal
+- Cappuccino, 1, 45 kcal
+- Coca cola, 330 ml, 139 kcal
+- Lamb Shish Kebab, 1.5, 375 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 281 kcal
+- Sponge Cake, 80 g, 236 kcal
+- Cappuccino, 1, 45 kcal
+
+Dinner - 534 kcal
+- Rice, 80 g, 105 kcal
+- Pad Kra Pao, 200 g, 200 kcal
+- Coca cola, 330 ml, 139 kcal
+- Fried egg, 1, 90 kcal
+
+Cocktail - 100 kcal
+- Cocktail, 1, 100 kcal
+
+Total: 1642 kcal
+
+Date: 10 May 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Snack - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 901 kcal
+- Köfte, 75 g, 218 kcal
+- Fries, 30 g, 94 kcal
+- Pide cheese, 0.5, 300 kcal
+- Beer, 330 ml, 149 kcal
+- Hummus, 25 g, 58 kcal
+- Flatbread, 30 g, 82 kcal
+
+Snack 2 - 208 kcal
+- Belgian Beer, 330 ml, 208 kcal
+
+Dinner - 610 kcal
+- Chicken Tikka, 250 g, 320 kcal
+- Naan, 100 g, 290 kcal
+
+Total: 1809 kcal
+
+Date: 11 May 2025
+
+Breakfast - 972 kcal
+- Mozzarrella sticks, 120 g, 122 kcal
+- Cappuccino, 1, 45 kcal
+- Coca cola, 250 ml, 105 kcal
+- Beef Burger, 1, 700 kcal
+
+Dinner - 659 kcal
+- Dürüm, 120 g, 387 kcal
+- Ayran, 250 ml, 85 kcal
+- Fries, 60 g, 187 kcal
+
+Snack - 215 kcal
+- Black Tea, 1 l, 0 kcal
+- Baklava, 50 g, 215 kcal
+
+Total: 1846 kcal
+
+Date: 12 May 2025
+
+Breakfast - 345 kcal
+- Cappuccino, 1, 45 kcal
+- Menemen, 1, 300 kcal
+
+Flight - 157 kcal
+- Snickers, 25 g, 122 kcal
+- Sesame bread, 40 g, 35 kcal
+
+Lunch - 471 kcal
+- Mozzarella, 35 g, 98 kcal
+- Orange Juice, 200 ml, 70 kcal
+- Cappuccino, 1, 45 kcal
+- Cured Sausage, 30 g, 90 kcal
+- Clementine, 2, 70 kcal
+- Milky Way small, 21.5 g, 98 kcal
+
+Snack - 512 kcal
+- Baklava, 50 g, 215 kcal
+- Lukum, 25 g, 72 kcal
+- Beer, 500 ml, 225 kcal
+
+Dinner - 791 kcal
+- Curry Wurst, 1, 340 kcal
+- Fries, 50 g, 156 kcal
+- Orange Juice, 200 ml, 70 kcal
+- Beer, 500 ml, 225 kcal
+
+Total: 2276 kcal
+
+Date: 13 May 2025
+
+Breakfast - 766 kcal
+- Cappuccino, 1, 45 kcal
+- Coca cola, 300 ml, 126 kcal
+- Bread, 60 g, 159 kcal
+- Fried egg, 1.5, 135 kcal
+- Fried Bacon, 15 g, 83 kcal
+- Mozzarella, 35 g, 98 kcal
+- Sausage, 30 g, 120 kcal
+
+Snack - 428 kcal
+- Bread, 60 g, 159 kcal
+- Sausage, 30 g, 120 kcal
+- Mozzarella, 20 g, 56 kcal
+- Coca cola, 220 ml, 93 kcal
+
+Dinner - 727 kcal
+- Orangina, 250 ml, 98 kcal
+- Thai Red Curry, 280 g, 361 kcal
+- Rice, 60 g, 79 kcal
+- Lukum, 45 g, 129 kcal
+- Цитрон, 10 g, 60 kcal
+
+Total: 1921 kcal
+
+Date: 14 May 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 403 kcal
+- Bulgur, 60 g, 50 kcal
+- Crispy Beyti Köfte, 0.5, 275 kcal
+- Sirene, 25 g, 61 kcal
+- Cucumber salad, 50 g, 17 kcal
+
+Snack - 93 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Dinner - 1424 kcal
+- Baked Beans, 200 g, 300 kcal
+- Fried Bacon, 45 g, 248 kcal
+- Orange Juice, 200 ml, 70 kcal
+- Sirene, 25 g, 61 kcal
+- Mini rolls with Cheese, 100 g, 277 kcal
+- Цитрон, 10 g, 60 kcal
+- Creme Brule, 1, 200 kcal
+- Belgian Beer, 330 ml, 208 kcal
+
+Total: 1965 kcal
+
+Date: 15 May 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 481 kcal
+- Rice, 80 g, 105 kcal
+- Fried Salmon, 100 g, 253 kcal
+- Salmon, 30 g, 43 kcal
+- Black Tea, 1, 0 kcal
+- Spring Rolls, 25 g, 40 kcal
+- Gyoza shrimp, 1, 40 kcal
+
+Snack - 338 kcal
+- Pistaccio nuts, 60 g, 338 kcal
+
+Dinner - 478 kcal
+- Rice, 40 g, 52 kcal
+- Thai Red Curry, 160 g, 206 kcal
+- Cucumber salad, 80 g, 27 kcal
+- Salmon, 20 g, 29 kcal
+- White Wine, 200 ml, 164 kcal
+
+Snack 2 - 642 kcal
+- Lukum, 50 g, 143 kcal
+- Black Tea, 1, 0 kcal
+- Цитрон, 20 g, 120 kcal
+- White Wine, 200 ml, 164 kcal
+- Baklava, 50 g, 215 kcal
+
+Total: 1984 kcal
+
+Date: 16 May 2025
+
+Breakfast - 403 kcal
+- Cappuccino, 1, 45 kcal
+- Walnussbrötchen, 68 g, 235 kcal
+- Cheese, 20 g, 80 kcal
+- Salmon, 30 g, 43 kcal
+
+Lunch - 515 kcal
+- Roast Beef Sandwich, 0.5, 350 kcal
+- Orange Juice, 300 ml, 105 kcal
+- Цитрон, 10 g, 60 kcal
+
+Second Lunch - 420 kcal
+- Roast Beef Sandwich, 0.5, 350 kcal
+- Orange Juice, 200 ml, 70 kcal
+
+Dinner - 616 kcal
+- Coca cola, 400 ml, 168 kcal
+- Pizza, 0.6, 421 kcal
+- Cucumber salad, 80 g, 27 kcal
+
+Total: 1954 kcal
+
+Date: 17 May 2025
+
+Breakfast - 451 kcal
+- Cappuccino, 1, 45 kcal
+- Kürbiskernbrötchen, 55 g, 202 kcal
+- Butter, 5 g, 36 kcal
+- Sausage, 20 g, 80 kcal
+- Cheese, 15 g, 60 kcal
+- Jam, 10 g, 28 kcal
+
+Lunch - 717 kcal
+- Hamburger Royal Cheese, 1, 550 kcal
+- Fries, 20 g, 62 kcal
+- Coca cola, 250 ml, 105 kcal
+
+Snack - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Dinner - 851 kcal
+- Mashed potato, 130 g, 114 kcal
+- Chicken skewer, 1, 380 kcal
+- Tomato, 60 g, 11 kcal
+- Butter, 5 g, 36 kcal
+- Sirene, 40 g, 97 kcal
+- Chips, 40 g, 213 kcal
+
+Total: 2064 kcal
+
+Date: 18 May 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 492 kcal
+- Juicy, 200 ml, 70 kcal
+- Tom Yum, 1, 100 kcal
+- Thai Duck with rice, 0.3, 211 kcal
+- Kürbiskernbrötchen, 30 g, 111 kcal
+
+Snack - 611 kcal
+- Walnussbrötchen, 68 g, 235 kcal
+- Butter, 5 g, 36 kcal
+- Cheese, 20 g, 80 kcal
+- Salmon, 20 g, 29 kcal
+- Jam, 15 g, 42 kcal
+- Lukum, 45 g, 129 kcal
+- Цитрон, 10 g, 60 kcal
+
+Dinner - 415 kcal
+- Lab gai, 80 g, 147 kcal
+- Salami, 30 g, 95 kcal
+- Orange Juice, 200 ml, 70 kcal
+- Sirene, 30 g, 73 kcal
+- Pickle, 2, 30 kcal
+
+Total: 1563 kcal
+
+Date: 19 May 2025
+
+Breakfast - 681 kcal
+- Cappuccino, 1, 45 kcal
+- Omelette, 2, 267 kcal
+- Kürbiskernbrötchen, 55 g, 202 kcal
+- Cheese, 30 g, 120 kcal
+- Smoked Salmon, 40 g, 47 kcal
+
+Lunch - 455 kcal
+- Orange Juice, 300 ml, 105 kcal
+- Thai Duck with rice, 0.5, 350 kcal
+
+Snack - 357 kcal
+- Цитрон, 10 g, 60 kcal
+- Цитрон, 10 g, 60 kcal
+- Baklava, 55 g, 237 kcal
+
+Dinner - 803 kcal
+- Orange Juice, 200 ml, 70 kcal
+- Lab gai, 100 g, 184 kcal
+- Thai Duck with rice, 0.3, 211 kcal
+- Mashed potato, 80 g, 71 kcal
+- Cheese, 20 g, 80 kcal
+- Lukum, 65 g, 187 kcal
+
+Total: 2296 kcal
+
+Date: 20 May 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 832 kcal
+- Sirene, 30 g, 73 kcal
+- Mini rolls with Cheese, 90 g, 250 kcal
+- Bitterballen Cheese, 4, 304 kcal
+- Salami, 30 g, 95 kcal
+- Cheese, 10 g, 40 kcal
+- Orange Juice, 200 ml, 70 kcal
+
+Dinner - 808 kcal
+- Coca cola, 400 ml, 168 kcal
+- Döner sandwich, 0.8, 640 kcal
+
+Snack - 222 kcal
+- Black Tea, 1, 0 kcal
+- Choco fresh, 21 g, 122 kcal
+- Candy, 25 g, 100 kcal
+
+Total: 1907 kcal
+
+Date: 21 May 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 508 kcal
+- Naan, 60 g, 174 kcal
+- Rice, 60 g, 78 kcal
+- Chicken Tikka, 200 g, 256 kcal
+
+Snack - 40 kcal
+- Plum, 1, 40 kcal
+
+Dinner - 870 kcal
+- Juice multifruit, 200 ml, 88 kcal
+- Pizza, 0.75, 525 kcal
+- Cheese Wedge, 2, 169 kcal
+- Juice multifruit, 200 ml, 88 kcal
+
+Snack 2 - 203 kcal
+- Kinder Bueno, 21.5 g, 122 kcal
+- White chocolate, 15 g, 81 kcal
+
+Total: 1666 kcal
+
+Date: 22 May 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 640 kcal
+- Döner sandwich, 0.8, 640 kcal
+
+Dinner - 693 kcal
+- Momo, 4, 300 kcal
+- Tibetan Fried Beef Noodle, 0.4, 280 kcal
+- Beer, 250 ml, 113 kcal
+
+Snack - 88 kcal
+- Juice multifruit, 200 ml, 88 kcal
+
+Total: 1466 kcal
+
+Date: 23 May 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 550 kcal
+- Crispy Beyti Köfte, 1, 550 kcal
+- Black Tea, 1, 0 kcal
+
+Dinner - 864 kcal
+- Momo, 3, 225 kcal
+- Sirene, 35 g, 86 kcal
+- White Wine, 250 ml, 205 kcal
+- Baklava, 50 g, 215 kcal
+- Bitterballen Cheese, 1, 76 kcal
+- Cucumber salad, 50 g, 17 kcal
+- Cheese, 10 g, 40 kcal
+
+Snack - 151 kcal
+- Fortune Cookie, 1, 30 kcal
+- Tuc, 25 g, 121 kcal
+
+Total: 1610 kcal
+
+Date: 24 May 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 696 kcal
+- Jägerschnitzel, 0.8, 256 kcal
+- Roasted Potato, 80 g, 120 kcal
+- Spargelcremesuppe, 1, 160 kcal
+- Kölsch, 2, 160 kcal
+
+Dinner - 790 kcal
+- White sausage, 150 g, 346 kcal
+- Pasta with sauce, 150 g, 236 kcal
+- Cheese, 30 g, 120 kcal
+- Juicy, 250 ml, 88 kcal
+
+Snack - 162 kcal
+- Choco fresh, 21 g, 122 kcal
+- Candy, 10 g, 40 kcal
+
+Total: 1693 kcal
+
+Date: 25 May 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 581 kcal
+- Pasta Carbonara, 250 g, 500 kcal
+- Fassbrause, 330 ml, 81 kcal
+
+Snack - 100 kcal
+- Apple, 1, 100 kcal
+
+Dinner - 685 kcal
+- Pasta with sauce, 70 g, 110 kcal
+- Snail Sosis, 80 g, 208 kcal
+- White sausage, 60 g, 139 kcal
+- Juicy, 50 ml, 18 kcal
+- Orange Juice, 300 ml, 105 kcal
+- Mushrooms Fried, 70 g, 105 kcal
+
+Snack 2 - 135 kcal
+- Candy, 30 g, 120 kcal
+- Fortune Cookie, 0.5, 15 kcal
+
+Total: 1546 kcal
+
+Date: 26 May 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 569 kcal
+- Brötchen (normal), 55 g, 149 kcal
+- Chicken breast fried, 80 g, 200 kcal
+- Yogurt, 30 g, 30 kcal
+- Cucumber salad, 50 g, 17 kcal
+- Pasta with sauce, 110 g, 173 kcal
+
+Dinner - 615 kcal
+- Udon noodle, 200 g, 344 kcal
+- Fried shrimp, 60 g, 69 kcal
+- Orange Juice, 300 ml, 105 kcal
+- Tempura Vegetables, 60 g, 97 kcal
+
+Snack - 286 kcal
+- Baklava, 35 g, 151 kcal
+- Candy, 10 g, 40 kcal
+- Belgian Beer, 150 ml, 95 kcal
+
+Total: 1515 kcal
+
+Date: 27 May 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 718 kcal
+- Manti Chilli Cheese, 1, 500 kcal
+- Köfte, 75 g, 218 kcal
+- Black Tea, 1, 0 kcal
+
+Dinner - 700 kcal
+- Beef Burger, 1, 700 kcal
+- Cola zero, 1, 0 kcal
+
+Total: 1463 kcal
+
+Date: 28 May 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 371 kcal
+- Hummus, 40 g, 92 kcal
+- Falafel (balls), 2, 120 kcal
+- Bread, 60 g, 159 kcal
+
+Snack - 373 kcal
+- Twix, 46 g, 228 kcal
+- Tuc, 30 g, 145 kcal
+
+Snack 2 - 456 kcal
+- Beer, 0.66 l, 297 kcal
+- Bitterballen, 1, 76 kcal
+- Mini rolls with Cheese, 30 g, 83 kcal
+
+Dinner - 1022 kcal
+- Beer, 330 ml, 149 kcal
+- White Wine, 200 ml, 164 kcal
+- Pizza, 0.8, 560 kcal
+- Beer, 330 ml, 149 kcal
+
+Snack 3 - 298 kcal
+- Beer, 330 ml, 149 kcal
+- Beer, 330 ml, 149 kcal
+
+Total: 2565 kcal
+
+Date: 29 May 2025
+
+Breakfast - 30 kcal
+- Cortado, 1, 30 kcal
+
+Brunch - 1045 kcal
+- Croissant, 1, 260 kcal
+- Jam, 15 g, 42 kcal
+- Butter, 10 g, 71 kcal
+- Bread, 30 g, 79 kcal
+- Cheese, 20 g, 80 kcal
+- Chocomel, 200 ml, 140 kcal
+- Orange Juice, 150 ml, 53 kcal
+- Yogurt, 100 g, 100 kcal
+- Müsli, 0.5, 175 kcal
+- Cappuccino, 1, 45 kcal
+
+Snack - 547 kcal
+- Cappuccino, 1, 45 kcal
+- Burek, 140 g, 386 kcal
+- Orange Juice, 330 ml, 116 kcal
+
+Snack 2 - 244 kcal
+- Wynand Fockink, 20 ml, 69 kcal
+- Cucumber salad, 80 g, 27 kcal
+- Mayonaise, 10 g, 68 kcal
+- Sausage, 20 g, 80 kcal
+
+Total: 1866 kcal
+
+Date: 30 May 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 350 kcal
+- Bahn mi, 1, 350 kcal
+- Cola zero, 1, 0 kcal
+
+Snack - 361 kcal
+- Cappuccino, 1, 45 kcal
+- Ice cream ball, 1, 120 kcal
+- Ice cream waffle cone, 1, 130 kcal
+- Juice multifruit, 150 ml, 66 kcal
+
+Dinner - 616 kcal
+- Toast, 2, 160 kcal
+- Fried egg, 2, 180 kcal
+- Sausage, 40 g, 160 kcal
+- Cucumber salad, 80 g, 27 kcal
+- Sirene, 20 g, 49 kcal
+- Cheese, 10 g, 40 kcal
+
+Snack 2 - 188 kcal
+- Pop corn, 50 g, 188 kcal
+
+Total: 1560 kcal
+
+Date: 31 May 2025
+
+Breakfast - 361 kcal
+- Cappuccino, 1, 45 kcal
+- Toast, 1, 80 kcal
+- Cheese, 20 g, 80 kcal
+- Mortadella, 35 g, 112 kcal
+- Juice multifruit, 100 ml, 44 kcal
+
+Lunch - 643 kcal
+- Beer, 500 ml, 225 kcal
+- Meatballs, 120 g, 240 kcal
+- Mozzarrella sticks, 120 g, 122 kcal
+- Mozzarella, 20 g, 56 kcal
+
+Dinner - 1027 kcal
+- Homemade Caesar Salad, 0.5, 650 kcal
+- Beer, 330 ml, 149 kcal
+- Wynand Fockink, 20 ml, 69 kcal
+- Bread, 60 g, 159 kcal
+
+Total: 2031 kcal
+
+Date: 1 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 602 kcal
+- Orange Juice, 150 ml, 53 kcal
+- Homemade Caesar Salad, 0.3, 390 kcal
+- Bread, 60 g, 159 kcal
+
+Snack - 225 kcal
+- Radler, 500 ml, 225 kcal
+
+Dinner - 585 kcal
+- Italian pizza, 0.5, 450 kcal
+- Coca cola, 200 ml, 84 kcal
+- Butter Cookie, 10 g, 51 kcal
+
+Snack 2 - 180 kcal
+- Apple, 1, 100 kcal
+- Candy, 20 g, 80 kcal
+
+Total: 1637 kcal
+
+Date: 2 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 384 kcal
+- Rice, 60 g, 78 kcal
+- Thai Cashew Chicken, 230 g, 251 kcal
+- Nuts, 10 g, 55 kcal
+
+Snack - 138 kcal
+- Apfelschorle, 330 ml, 93 kcal
+- Cappuccino, 1, 45 kcal
+
+Dinner - 625 kcal
+- Italian pizza, 0.5, 450 kcal
+- Fried Chicken Breast, 30 g, 57 kcal
+- Sprite, 150 ml, 50 kcal
+- Mayonaise, 10 g, 68 kcal
+
+Snack 2 - 472 kcal
+- Tuc, 25 g, 121 kcal
+- Pickle, 2, 30 kcal
+- Sausage, 30 g, 120 kcal
+- Fried Chicken Breast, 20 g, 37 kcal
+- Wynand Fockink, 30 ml, 104 kcal
+- Цитрон, 10 g, 60 kcal
+
+Total: 1664 kcal
+
+Date: 3 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 679 kcal
+- Egg, 1, 93 kcal
+- Cucumber salad, 30 g, 10 kcal
+- Mayonaise, 10 g, 68 kcal
+- Bread, 50 g, 132 kcal
+- Fried Chicken Breast, 145 g, 271 kcal
+- Orange Juice, 300 ml, 105 kcal
+
+Snack - 129 kcal
+- Lukum, 45 g, 129 kcal
+- Black Tea, 1, 0 kcal
+
+Dinner - 573 kcal
+- Fried Chicken Breast, 145 g, 271 kcal
+- Cucumber salad, 80 g, 27 kcal
+- Egg, 1, 93 kcal
+- Bread, 50 g, 132 kcal
+- Sprite, 150 ml, 50 kcal
+
+Snack 2 - 336 kcal
+- Цитрон, 20 g, 120 kcal
+- Gelbwurst, 35 g, 96 kcal
+- Cured Sausage, 30 g, 90 kcal
+- Pickle, 2, 30 kcal
+
+Total: 1762 kcal
+
+Date: 4 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 600 kcal
+- Chicken Bowl, 1, 600 kcal
+
+Snack - 66 kcal
+- Climaid, 200 ml, 66 kcal
+
+Snack 2 - 896 kcal
+- Cheese, 30 g, 120 kcal
+- Dark Bread, 60 g, 162 kcal
+- Fleischwurst, 35 g, 90 kcal
+- Pickle, 1, 15 kcal
+- Belgian Beer, 330 ml, 208 kcal
+- Cured Sausage, 20 g, 60 kcal
+- Цитрон, 10 g, 60 kcal
+- Lukum, 40 g, 115 kcal
+- Sprite, 200 ml, 66 kcal
+
+Total: 1607 kcal
+
+Date: 5 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 632 kcal
+- Black Tea, 1, 0 kcal
+- Kung Pao, 280 g, 475 kcal
+- Rice, 120 g, 157 kcal
+
+Dinner - 1179 kcal
+- Mini rolls with Cheese, 120 g, 332 kcal
+- Fried Bacon, 60 g, 331 kcal
+- Cheese, 30 g, 120 kcal
+- Sprite, 200 ml, 66 kcal
+- Baked Beans, 220 g, 330 kcal
+
+Total: 1856 kcal
+
+Date: 6 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 343 kcal
+- Focaccia, 0.5, 265 kcal
+- Peach Juice, 200 ml, 78 kcal
+
+Second Lunch - 310 kcal
+- Focaccia, 0.5, 265 kcal
+- Cappuccino, 1, 45 kcal
+
+Snack - 68 kcal
+- Apricot, 4, 68 kcal
+
+Dinner - 1230 kcal
+- Beer, 1 l, 450 kcal
+- Tapas, 1.7, 680 kcal
+- Cocktail, 1, 100 kcal
+
+Total: 1996 kcal
+
+Date: 7 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 485 kcal
+- Gemüsekebap, 0.4, 400 kcal
+- Ayran, 250 ml, 85 kcal
+
+Second Lunch - 645 kcal
+- Gemüsekebap, 0.6, 600 kcal
+- Cappuccino, 1, 45 kcal
+
+Dinner - 572 kcal
+- Sirene, 40 g, 97 kcal
+- Mashed potato, 130 g, 114 kcal
+- Peach Juice, 200 ml, 78 kcal
+- Cucumber salad, 80 g, 27 kcal
+- Pigs in blankets, 80 g, 256 kcal
+
+Snack 2 - 103 kcal
+- White Wine, 125 ml, 103 kcal
+
+Total: 1850 kcal
+
+Date: 8 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 989 kcal
+- Pancake, 60 g, 135 kcal
+- Sauce, 60 g, 90 kcal
+- Bread, 80 g, 212 kcal
+- Fried egg, 1.5, 135 kcal
+- Mayonaise, 20 g, 136 kcal
+- Limo, 200 ml, 48 kcal
+- Cappuccino, 1, 45 kcal
+- Cheesecake, 60 g, 188 kcal
+
+Dinner - 789 kcal
+- Peach Juice, 200 ml, 78 kcal
+- Beef Burger, 0.8, 560 kcal
+- Baklava, 35 g, 151 kcal
+
+Total: 1823 kcal
+
+Date: 9 June 2025
+
+Breakfast - 79 kcal
+- Cappuccino, 1, 45 kcal
+- Apricot, 2, 34 kcal
+
+Lunch - 769 kcal
+- Mashed potato, 80 g, 71 kcal
+- Kebapche, 90 g, 270 kcal
+- Bread, 60 g, 159 kcal
+- Bitterballen Cheese, 3, 228 kcal
+- Sirene, 15 g, 37 kcal
+- Tomato, 20 g, 4 kcal
+
+Snack - 441 kcal
+- Banana, 1.5, 182 kcal
+- Milk, 150 ml, 63 kcal
+- Cappuccino, 1, 45 kcal
+- Baklava, 35 g, 151 kcal
+
+Dinner - 792 kcal
+- Wiener Wurst, 100 g, 288 kcal
+- Mashed potato, 80 g, 71 kcal
+- Egg, 1, 94 kcal
+- Beer, 330 ml, 149 kcal
+- Sirene, 15 g, 37 kcal
+- Tomato, 20 g, 4 kcal
+- Beer, 330 ml, 149 kcal
+
+Total: 2081 kcal
+
+Date: 10 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 749 kcal
+- Pulled noodles with beef, 1, 700 kcal
+- Fassbrause, 200 ml, 49 kcal
+
+Dinner - 717 kcal
+- Walnussbrötchen, 68 g, 235 kcal
+- Cervelate, 30 g, 108 kcal
+- Cheese, 25 g, 100 kcal
+- Butter, 5 g, 36 kcal
+- Pickle, 1, 15 kcal
+- Baklava, 35 g, 151 kcal
+- Lukum, 25 g, 72 kcal
+
+Snack - 387 kcal
+- Dark Bread, 50 g, 135 kcal
+- Cervelate, 20 g, 72 kcal
+- Cheese, 30 g, 120 kcal
+- Цитрон, 10 g, 60 kcal
+
+Total: 1898 kcal
+
+Date: 11 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 578 kcal
+- Rice, 60 g, 78 kcal
+- Baked Beans, 120 g, 180 kcal
+- Nachos, 80 g, 320 kcal
+
+Snack - 100 kcal
+- Cortado, 1, 30 kcal
+- Peach small, 1, 30 kcal
+- Plum, 1, 40 kcal
+
+Dinner - 782 kcal
+- Sushi rolls, 16, 560 kcal
+- Nigiri, 2, 106 kcal
+- Sprite, 150 ml, 50 kcal
+- Sprite, 200 ml, 66 kcal
+
+Snack 2 - 298 kcal
+- Lukum, 80 g, 229 kcal
+- Wynand Fockink, 20 ml, 69 kcal
+
+Total: 1803 kcal
+
+Date: 12 June 2025
+
+Breakfast - 130 kcal
+- Cappuccino, 1, 45 kcal
+- Banana, 0.7, 85 kcal
+
+Lunch - 1062 kcal
+- Schawarma Anya, 1, 900 kcal
+- Coca cola, 150 ml, 63 kcal
+- Climaid, 300 ml, 99 kcal
+
+Dinner - 918 kcal
+- Banica, 90 g, 344 kcal
+- Sushi, 60 g, 97 kcal
+- Climaid, 300 ml, 99 kcal
+- Wiener Wurst, 40 g, 115 kcal
+- Strawberry Jam, 20 g, 45 kcal
+- Sprite, 250 ml, 83 kcal
+- Sprite, 300 ml, 99 kcal
+- Watermelon, 120 g, 36 kcal
+
+Total: 2110 kcal
+
+Date: 13 June 2025
+
+Breakfast - 63 kcal
+- Cappuccino, 1, 45 kcal
+- Watermelon, 60 g, 18 kcal
+
+Lunch - 659 kcal
+- Roast Beef Sandwich, 0.8, 560 kcal
+- Climaid, 300 ml, 99 kcal
+
+Snack - 257 kcal
+- Watermelon, 60 g, 18 kcal
+- Twix, 15 g, 74 kcal
+- Cappuccino, 1, 45 kcal
+- Цитрон, 10 g, 60 kcal
+- Цитрон, 10 g, 60 kcal
+
+Dinner - 503 kcal
+- Italian pizza, 0.45, 405 kcal
+- Orange Juice, 280 ml, 98 kcal
+
+Total: 1482 kcal
+
+Date: 14 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 555 kcal
+- Italian pizza, 0.5, 450 kcal
+- Orange Juice, 300 ml, 105 kcal
+
+Snack - 250 kcal
+- Ice cream ball, 1, 120 kcal
+- Ice cream waffle cone, 1, 130 kcal
+
+Dinner - 776 kcal
+- Schweppes Pomegranate, 300 ml, 95 kcal
+- Banica, 80 g, 306 kcal
+- Цитрон, 10 g, 60 kcal
+- Tarator, 200 ml, 140 kcal
+- Cheese, 20 g, 80 kcal
+- Salami, 30 g, 95 kcal
+
+Snack 2 - 316 kcal
+- Magnum Ice Cream Almond, 1, 250 kcal
+- Climaid, 200 ml, 66 kcal
+
+Total: 1942 kcal
+
+Date: 15 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 795 kcal
+- Banica, 40 g, 153 kcal
+- Bread, 25 g, 67 kcal
+- Fried egg, 2, 180 kcal
+- Cheese, 30 g, 120 kcal
+- Wiener Wurst, 50 g, 144 kcal
+- Orange Juice, 250 ml, 88 kcal
+- Sirene, 15 g, 37 kcal
+- Tomato, 30 g, 6 kcal
+
+Snack - 529 kcal
+- Ice cream ball, 2, 240 kcal
+- Cappuccino, 1, 45 kcal
+- Climaid, 330 ml, 109 kcal
+- Milk Chocolate, 25 g, 135 kcal
+
+Dinner - 987 kcal
+- Grilled Sausage, 1.5, 525 kcal
+- Fried Zucchini, 80 g, 134 kcal
+- Yogurt, 30 g, 30 kcal
+- Beer, 330 ml, 149 kcal
+- Beer, 330 ml, 149 kcal
+
+Total: 2356 kcal
+
+Date: 16 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 627 kcal
+- Cordon Bleu, 1, 550 kcal
+- Potato salad, 40 g, 60 kcal
+- Cucumber salad, 50 g, 17 kcal
+
+Snack - 205 kcal
+- Cake, 40 g, 160 kcal
+- Cappuccino, 1, 45 kcal
+
+Dinner - 784 kcal
+- Wiener Wurst, 90 g, 260 kcal
+- Bread, 60 g, 159 kcal
+- Fried egg, 2, 180 kcal
+- Sirene, 30 g, 73 kcal
+- Orange Juice, 300 ml, 106 kcal
+- Tomato, 30 g, 6 kcal
+
+Snack 2 - 355 kcal
+- Milk Chocolate, 25 g, 135 kcal
+- Schweppes, 250 ml, 62 kcal
+- Wynand Fockink, 30 ml, 104 kcal
+- Milk Chocolate, 10 g, 54 kcal
+
+Total: 2016 kcal
+
+Date: 17 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 664 kcal
+- Kung Pao, 280 g, 475 kcal
+- Coca cola, 200 ml, 84 kcal
+- Rice, 80 g, 105 kcal
+
+Dinner - 894 kcal
+- Bitterballen Cheese, 3, 228 kcal
+- Mozzarrella sticks, 60 g, 61 kcal
+- Paprica filled with Cheese, 3, 180 kcal
+- Ketchup, 20 g, 21 kcal
+- Mayonaise, 15 g, 102 kcal
+- Tomato, 60 g, 12 kcal
+- Olive oil, 10 ml, 88 kcal
+- Milk Chocolate, 30 g, 162 kcal
+- Cheese, 10 g, 40 kcal
+
+Snack 2 - 250 kcal
+- Magnum Ice Cream Almond, 1, 250 kcal
+
+Total: 1853 kcal
+
+Date: 18 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Snack - 470 kcal
+- Banica, 60 g, 230 kcal
+- Damla Cookie, 30 g, 120 kcal
+- Candy, 30 g, 120 kcal
+- Black Tea, 1, 0 kcal
+
+Lunch - 439 kcal
+- Chicken breast fried, 100 g, 250 kcal
+- Pasta with sauce, 120 g, 189 kcal
+
+Snack 2 - 45 kcal
+- Watermelon, 150 g, 45 kcal
+
+Dinner - 776 kcal
+- Beef Burger, 1, 700 kcal
+- Bitterballen, 1, 76 kcal
+
+Snack 3 - 286 kcal
+- Lukum, 65 g, 186 kcal
+- Candy, 25 g, 100 kcal
+
+Total: 2061 kcal
+
+Date: 19 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 778 kcal
+- Leberkäse, 150 g, 388 kcal
+- Kölsch, 3, 240 kcal
+- Roasted Potato, 100 g, 150 kcal
+
+Snack - 95 kcal
+- Homemade Frappe, 1, 65 kcal
+- Watermelon, 100 g, 30 kcal
+
+Dinner - 864 kcal
+- Pad Thai, 0.5, 375 kcal
+- Cider, 0.66 l, 403 kcal
+- Lukum, 30 g, 86 kcal
+
+Total: 1782 kcal
+
+Date: 20 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 680 kcal
+- Caesar Chicken Salad Romeo, 1, 600 kcal
+- White bread, 30 g, 80 kcal
+
+Dinner - 1399 kcal
+- Alcoholfree Weizen Beer, 500 ml, 190 kcal
+- Alcoholfree Weizen Beer, 500 ml, 190 kcal
+- Beef Burger, 1, 700 kcal
+- Bread, 50 g, 132 kcal
+- Fries, 60 g, 187 kcal
+
+Snack 2 - 107 kcal
+- Chocolate milk, 150 ml, 107 kcal
+
+Total: 2231 kcal
+
+Date: 21 June 2025
+
+Breakfast - 145 kcal
+- Cappuccino, 1, 45 kcal
+- Candy, 25 g, 100 kcal
+
+Lunch - 526 kcal
+- Ikea Meatballs with mash, 1, 300 kcal
+- Climaid, 200 ml, 66 kcal
+- Cake, 40 g, 160 kcal
+
+Dinner - 1059 kcal
+- Baked Fish, 60 g, 151 kcal
+- Roasted Potato, 80 g, 120 kcal
+- Cucumber salad, 100 g, 34 kcal
+- Burrata, 0.75, 225 kcal
+- Cherry tomatoes, 4, 4 kcal
+- Olive oil, 10 ml, 88 kcal
+- Tiramisu, 70 g, 273 kcal
+- White Wine, 200 ml, 164 kcal
+
+Snack 2 - 265 kcal
+- Large Cappuccino, 1, 150 kcal
+- White Wine, 140 ml, 115 kcal
+
+Total: 1995 kcal
+
+Date: 22 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 477 kcal
+- Pad Thai, 0.3, 226 kcal
+- Sweet Corn, 100 g, 76 kcal
+- Tarator, 300 ml, 175 kcal
+
+Snack - 158 kcal
+- Candy, 25 g, 100 kcal
+- Watermelon, 60 g, 18 kcal
+- Cheese, 10 g, 40 kcal
+
+Dinner - 805 kcal
+- Sirene, 40 g, 98 kcal
+- Чушки пържени, 150 g, 191 kcal
+- Bread, 45 g, 119 kcal
+- White Wine, 200 ml, 164 kcal
+- Цитрон, 20 g, 120 kcal
+- Lukum, 30 g, 86 kcal
+- Cucumber salad, 80 g, 27 kcal
+
+Snack 2 - 220 kcal
+- Banana, 1, 121 kcal
+- Sprite, 300 ml, 99 kcal
+
+Total: 1705 kcal
+
+Date: 23 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 559 kcal
+- Pasta Bolognese, 300 g, 390 kcal
+- Climaid, 330 ml, 109 kcal
+- Cheese, 15 g, 60 kcal
+
+Dinner - 609 kcal
+- Baked Beans, 200 g, 300 kcal
+- Bread, 30 g, 80 kcal
+- Cheese, 20 g, 80 kcal
+- Sirene, 20 g, 49 kcal
+- Climaid, 300 ml, 100 kcal
+
+Snack - 358 kcal
+- Apfelschorle, 330 ml, 93 kcal
+- Sprite, 500 ml, 165 kcal
+- Candy, 25 g, 100 kcal
+
+Total: 1571 kcal
+
+Date: 24 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 640 kcal
+- Döner sandwich, 0.8, 640 kcal
+- Cola zero, 1, 0 kcal
+
+Snack - 93 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Dinner - 816 kcal
+- Чушки пържени, 150 g, 191 kcal
+- Sirene, 20 g, 49 kcal
+- Cheese, 10 g, 40 kcal
+- Orange Juice, 250 ml, 88 kcal
+- Peach, 0.5, 25 kcal
+- Waffel, 5 g, 15 kcal
+- Tutku, 20 g, 102 kcal
+- Banica, 80 g, 306 kcal
+
+Total: 1594 kcal
+
+Date: 25 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 717 kcal
+- Beef Mince Wrap with cheese, 1, 650 kcal
+- Couscous, 60 g, 67 kcal
+
+Snack - 245 kcal
+- Peach, 1.5, 75 kcal
+- Apricot, 1, 17 kcal
+- Tutku, 30 g, 153 kcal
+
+Dinner - 930 kcal
+- Italian pizza, 0.8, 720 kcal
+- Coca cola, 500 ml, 210 kcal
+
+Total: 1937 kcal
+
+Date: 26 June 2025
+
+Breakfast - 419 kcal
+- Cappuccino, 1, 45 kcal
+- Italian pizza, 0.3, 270 kcal
+- Orange Juice, 150 ml, 53 kcal
+- Tutku, 10 g, 51 kcal
+
+Lunch - 475 kcal
+- Тархун, 500 ml, 200 kcal
+- Sprite, 50 ml, 17 kcal
+- Italian pizza, 0.2, 180 kcal
+- Cappy, 250 ml, 78 kcal
+
+Dinner - 1139 kcal
+- Kölsch, 3, 240 kcal
+- Sausage with Cheese, 1, 280 kcal
+- Cucumber salad, 100 g, 33 kcal
+- Cheese, 20 g, 80 kcal
+- Орехите Сушеница, 30 g, 70 kcal
+- Mini rolls with Cheese, 120 g, 332 kcal
+- Tutku, 10 g, 51 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+
+Total: 2033 kcal
+
+Date: 27 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 900 kcal
+- Schawarma Anya, 1, 900 kcal
+
+Snack - 175 kcal
+- Cappuccino, 1, 45 kcal
+- Wafer, 30 g, 130 kcal
+
+Dinner - 703 kcal
+- Kebapche, 100 g, 300 kcal
+- Mini rolls with Cheese, 60 g, 166 kcal
+- Ginger Ale, 300 ml, 111 kcal
+- Sprite, 300 ml, 99 kcal
+- Cucumber salad, 80 g, 27 kcal
+
+Total: 1823 kcal
+
+Date: 28 June 2025
+
+Breakfast - 92 kcal
+- Cappuccino, 1, 45 kcal
+- Орехите Сушеница, 20 g, 47 kcal
+
+Lunch - 660 kcal
+- Taco Birria, 4, 480 kcal
+- Restaurant Limo, 400 ml, 180 kcal
+
+Snack - 328 kcal
+- Schweppes, 400 ml, 100 kcal
+- Orange Juice, 150 ml, 53 kcal
+- Magnum Ice Cream Almond, 0.7, 175 kcal
+
+Dinner - 1020 kcal
+- Münchner Weisswurst, 150 g, 413 kcal
+- Boiled Pasta, 130 g, 171 kcal
+- Sirene, 25 g, 61 kcal
+- Тархун, 0.6 l, 240 kcal
+- Cucumber salad, 100 g, 33 kcal
+- Butter Cookie, 20 g, 102 kcal
+
+Total: 2100 kcal
+
+Date: 29 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 462 kcal
+- Rice, 100 g, 131 kcal
+- Thai Cashew Chicken, 200 g, 218 kcal
+- Restaurant Limo, 250 ml, 113 kcal
+
+Snack - 285 kcal
+- Cappuccino, 1, 45 kcal
+- Kölsch, 1.5, 120 kcal
+- Peach, 1, 50 kcal
+- Climaid, 150 ml, 50 kcal
+- Maracuya, 1, 20 kcal
+
+Dinner - 928 kcal
+- Kebapche, 70 g, 210 kcal
+- Schawarma Anya, 0.4, 360 kcal
+- Deep fried chicken, 80 g, 197 kcal
+- Sirene, 30 g, 73 kcal
+- Orange Juice, 250 ml, 88 kcal
+
+Snack 2 - 69 kcal
+- Wynand Fockink, 20 ml, 69 kcal
+
+Total: 1789 kcal
+
+Date: 30 June 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 444 kcal
+- Moussaka, 250 g, 318 kcal
+- Cucumber salad, 100 g, 33 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Snack - 285 kcal
+- Brezel, 40 g, 111 kcal
+- Butter, 5 g, 36 kcal
+- Ham, 25 g, 25 kcal
+- Cheese, 15 g, 60 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+
+Dinner - 652 kcal
+- Sirene, 30 g, 73 kcal
+- Brezel, 75 g, 207 kcal
+- Ham, 30 g, 30 kcal
+- Cucumber salad, 80 g, 27 kcal
+- Olive oil, 10 ml, 88 kcal
+- Fried egg, 2, 180 kcal
+- Орехите Сушеница, 20 g, 47 kcal
+
+Snack 2 - 213 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+- Mochi ice cream, 2, 160 kcal
+
+Total: 1639 kcal
+
+Date: 1 July 2025
+
+Breakfast - 138 kcal
+- Cappuccino, 1, 45 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Lunch - 839 kcal
+- Pizza, 1, 700 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Snack - 1388 kcal
+- Magnum Ice Cream Almond, 1, 250 kcal
+- Apfelschorle, 330 ml, 93 kcal
+- Döner sandwich, 0.8, 640 kcal
+- Sirene, 35 g, 85 kcal
+- Тархун, 0.8 l, 320 kcal
+
+Total: 2365 kcal
+
+Date: 2 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 629 kcal
+- Coca cola, 330 ml, 139 kcal
+- Thai Duck with rice, 0.7, 490 kcal
+
+Snack - 359 kcal
+- Magnum Ice Cream Almond, 1, 250 kcal
+- Climaid, 330 ml, 109 kcal
+
+Dinner - 901 kcal
+- Bread, 80 g, 212 kcal
+- Орехите Сушеница, 35 g, 82 kcal
+- Cheese, 40 g, 160 kcal
+- Butter, 15 g, 107 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+- Schweppes, 250 ml, 62 kcal
+- Ham, 25 g, 25 kcal
+- Creme Brule, 1, 200 kcal
+
+Total: 1934 kcal
+
+Date: 3 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 839 kcal
+- Pulled noodles with beef, 1, 700 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Snack - 458 kcal
+- Cappuccino, 1, 45 kcal
+- Apfelschorle, 330 ml, 93 kcal
+- Cake, 80 g, 320 kcal
+
+Dinner - 937 kcal
+- Tapas, 1.6, 640 kcal
+- Beer, 0.66 l, 297 kcal
+
+Total: 2279 kcal
+
+Date: 4 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 717 kcal
+- Rice, 120 g, 157 kcal
+- Fried egg, 1, 90 kcal
+- Mango Juice, 400 ml, 220 kcal
+- Pad Kra Pao, 250 g, 250 kcal
+
+Party - 2117 kcal
+- Aperol Spritz, 1, 125 kcal
+- White Wine, 0.6 l, 492 kcal
+- A lot, 1500, 1500 kcal
+
+Total: 2879 kcal
+
+Date: 5 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 639 kcal
+- Kebapche, 80 g, 240 kcal
+- Fries, 80 g, 250 kcal
+- Nonalcoholic Beer, 330 ml, 149 kcal
+
+Snack - 393 kcal
+- Ice cream ball, 2, 240 kcal
+- Butter Cookie, 30 g, 153 kcal
+- Black coffee, 1, 0 kcal
+
+Dinner - 495 kcal
+- Italian pizza, 0.55, 495 kcal
+
+Snack 2 - 140 kcal
+- Black Tea, 1, 0 kcal
+- Цитрон, 10 g, 60 kcal
+- Mochi ice cream, 1, 80 kcal
+
+Total: 1712 kcal
+
+Date: 6 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 1025 kcal
+- Chicken burger, 1, 600 kcal
+- Onion Rings, 3, 150 kcal
+- Sweet Potat Fries, 150 g, 275 kcal
+
+Snack - 205 kcal
+- Cappuccino, 1, 45 kcal
+- Цитрон, 10 g, 60 kcal
+- Candy, 25 g, 100 kcal
+
+Dinner - 607 kcal
+- Italian pizza, 0.45, 405 kcal
+- Orange Juice, 270 ml, 95 kcal
+- Chocolate milk, 150 ml, 107 kcal
+
+Total: 1882 kcal
+
+Date: 7 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 656 kcal
+- Pasta with sauce, 60 g, 94 kcal
+- Egg, 1, 93 kcal
+- Chicken breast fried, 100 g, 250 kcal
+- Sweet Corn, 25 g, 19 kcal
+- Baked Beans, 25 g, 38 kcal
+- Feta cheese, 25 g, 66 kcal
+- Mozzarella, 20 g, 56 kcal
+- Yogurt, 40 g, 40 kcal
+
+Dinner - 1532 kcal
+- Candy, 20 g, 80 kcal
+- Орехи со сгущенкой, 4, 320 kcal
+- Bread, 150 g, 397 kcal
+- Feta cheese, 25 g, 66 kcal
+- Beer, 0.66 l, 297 kcal
+- Мишка косолапый конфета, 40 g, 212 kcal
+- Chips, 30 g, 160 kcal
+
+Total: 2233 kcal
+
+Date: 8 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 693 kcal
+- Schawarma Anya, 0.7, 630 kcal
+- Coca cola, 150 ml, 63 kcal
+
+Dinner - 535 kcal
+- Pelmeni, 156 g, 406 kcal
+- Sirene, 25 g, 61 kcal
+- Mayonaise, 10 g, 68 kcal
+
+Snack - 505 kcal
+- Orange Juice, 300 ml, 105 kcal
+- Candy, 100 g, 400 kcal
+
+Total: 1778 kcal
+
+Date: 9 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 397 kcal
+- Manti, 120 g, 306 kcal
+- Feta cheese, 10 g, 26 kcal
+- Walnuts, 10 g, 65 kcal
+
+Snack - 245 kcal
+- Cappuccino, 1, 45 kcal
+- Pastel de Nata, 1, 200 kcal
+
+Dinner - 1076 kcal
+- Mini rolls with Cheese, 90 g, 249 kcal
+- Сардельки, 100 g, 250 kcal
+- Baklava, 50 g, 215 kcal
+- Cheese, 30 g, 120 kcal
+- Орехите Сушеница, 20 g, 47 kcal
+- Икра мойвы, 30 g, 135 kcal
+- Watermelon, 200 g, 60 kcal
+
+Total: 1763 kcal
+
+Date: 10 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 975 kcal
+- Coca cola, 400 ml, 168 kcal
+- Chicken Tikka, 250 g, 320 kcal
+- Naan, 120 g, 348 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Dinner - 611 kcal
+- Orange Juice, 200 ml, 70 kcal
+- Bread, 60 g, 159 kcal
+- Икра мойвы, 20 g, 90 kcal
+- Cheese, 30 g, 120 kcal
+- Сардельки, 50 g, 125 kcal
+- Орехите Сушеница, 20 g, 47 kcal
+
+Snack 2 - 260 kcal
+- Watermelon, 200 g, 60 kcal
+- Candy, 20 g, 80 kcal
+- Candy, 30 g, 120 kcal
+
+Total: 1891 kcal
+
+Date: 11 July 2025
+
+Breakfast - 530 kcal
+- Cappuccino, 1, 45 kcal
+- Fried egg, 2, 180 kcal
+- Mushrooms Fried, 50 g, 75 kcal
+- Butter, 10 g, 71 kcal
+- Bread, 60 g, 159 kcal
+
+Lunch - 641 kcal
+- Pelmeni, 170 g, 442 kcal
+- Butter, 10 g, 71 kcal
+- Mayonaise, 10 g, 68 kcal
+- Cheese, 15 g, 60 kcal
+
+Snack - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Dinner - 717 kcal
+- Sushi rolls, 12, 420 kcal
+- Seafood Tempura, 50 g, 73 kcal
+- Cola zero, 1, 0 kcal
+- Candy, 30 g, 120 kcal
+- Wynand Fockink, 30 ml, 104 kcal
+
+Total: 1933 kcal
+
+Date: 12 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 567 kcal
+- Veggie curry, 140 g, 140 kcal
+- Rice, 80 g, 105 kcal
+- Duck breast crispy, 60 g, 202 kcal
+- Kölsch, 1.5, 120 kcal
+
+Dinner - 1277 kcal
+- Mini Croissants 7 Days, 3, 162 kcal
+- Kebapche, 100 g, 300 kcal
+- Banica, 100 g, 383 kcal
+- Kölsch, 3, 240 kcal
+- Лютеница, 50 g, 75 kcal
+- Orangina, 300 ml, 117 kcal
+
+Total: 1889 kcal
+
+Date: 13 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 982 kcal
+- Banica, 120 g, 459 kcal
+- Orangina, 300 ml, 117 kcal
+- Сардельки, 75 g, 188 kcal
+- Орехите Сушеница, 30 g, 70 kcal
+- Cheese, 20 g, 80 kcal
+- Лютеница, 45 g, 68 kcal
+
+Snack - 367 kcal
+- Orangina, 300 ml, 117 kcal
+- Ice cream ball, 1, 120 kcal
+- Ice cream waffle cone, 1, 130 kcal
+
+Dinner - 690 kcal
+- Octopus grilled, 0.5, 200 kcal
+- Pasta Carbonara, 120 g, 240 kcal
+- Aperol Spritz, 1, 125 kcal
+- Aperol Spritz, 1, 125 kcal
+
+Snack 2 - 210 kcal
+- Gin Tonic, 300 ml, 210 kcal
+
+Total: 2294 kcal
+
+Date: 14 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 722 kcal
+- Coca cola, 330 ml, 139 kcal
+- Slow cooked Pulled Pork, 150 g, 252 kcal
+- Roasted Potato, 80 g, 120 kcal
+- Mushrooms Fried, 50 g, 75 kcal
+- Mayonaise, 20 g, 136 kcal
+
+Snack - 80 kcal
+- Candy, 20 g, 80 kcal
+
+Dinner - 1005 kcal
+- Kebapche, 100 g, 300 kcal
+- Banica, 80 g, 306 kcal
+- Baked Beans, 200 g, 300 kcal
+- Climaid, 300 ml, 99 kcal
+
+Total: 1852 kcal
+
+Date: 15 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 884 kcal
+- Coca cola, 200 ml, 84 kcal
+- Duck with noodles, 1, 800 kcal
+
+Dinner - 1006 kcal
+- Beef Burger, 1, 700 kcal
+- Fries, 50 g, 156 kcal
+- Onion Rings, 3, 150 kcal
+
+Snack 2 - 290 kcal
+- Ice cream ball, 1, 120 kcal
+- Ice cream waffle cone, 1, 130 kcal
+- Candy, 10 g, 40 kcal
+
+Total: 2225 kcal
+
+Date: 16 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 736 kcal
+- Rice, 40 g, 52 kcal
+- Butter Chicken, 150 g, 359 kcal
+- Naan, 80 g, 232 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Snack - 97 kcal
+- Птичье молоко, 10 g, 44 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+
+Dinner - 782 kcal
+- Mini rolls with Cheese, 90 g, 249 kcal
+- Fried egg, 2, 180 kcal
+- Орехите Сушеница, 30 g, 70 kcal
+- Икра мойвы, 20 g, 90 kcal
+- Лютеница, 40 g, 60 kcal
+- Candy, 5 g, 20 kcal
+- granini, 300 ml, 113 kcal
+
+Snack 2 - 80 kcal
+- Candy, 20 g, 80 kcal
+
+Total: 1740 kcal
+
+Date: 17 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Snack - 1000 kcal
+- Орехите Сушеница, 30 g, 70 kcal
+- Gyros Pita Pommes, 1, 750 kcal
+- Club Mate, 500 ml, 100 kcal
+- Candy, 20 g, 80 kcal
+
+Dinner - 1140 kcal
+- Pelmeni, 200 g, 521 kcal
+- Cheese, 20 g, 80 kcal
+- Sirene, 30 g, 73 kcal
+- Mayonaise, 15 g, 102 kcal
+- Salami, 30 g, 95 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+- Milk Chocolate, 40 g, 216 kcal
+
+Total: 2185 kcal
+
+Date: 18 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 286 kcal
+- Crêpe, 1, 100 kcal
+- Camambert Cheese, 35 g, 77 kcal
+- Climaid, 330 ml, 109 kcal
+
+Snack - 438 kcal
+- Candy, 30 g, 120 kcal
+- Orange Juice, 250 ml, 88 kcal
+- Орехите Сушеница, 30 g, 70 kcal
+- Cheese, 20 g, 80 kcal
+- Candy, 20 g, 80 kcal
+
+Dinner - 715 kcal
+- Rouladen chicken, 210 g, 378 kcal
+- Mashed potato, 180 g, 158 kcal
+- Sirene, 35 g, 85 kcal
+- Orange Juice, 220 ml, 77 kcal
+- Cucumber salad, 50 g, 17 kcal
+
+Snack 2 - 149 kcal
+- Candy, 20 g, 80 kcal
+- Wynand Fockink, 20 ml, 69 kcal
+
+Total: 1633 kcal
+
+Date: 19 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 891 kcal
+- Corn Soup, 250 g, 250 kcal
+- Dark Bread, 30 g, 81 kcal
+- Flammkuchen, 0.8, 560 kcal
+
+Snack - 463 kcal
+- Berry Pastry épi, 1, 400 kcal
+- Schweppes, 250 ml, 63 kcal
+
+Dinner - 390 kcal
+- Mashed potato, 80 g, 70 kcal
+- Кюфтета, 120 g, 240 kcal
+- Candy, 20 g, 80 kcal
+
+Total: 1789 kcal
+
+Date: 20 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 632 kcal
+- Meatballs, 120 g, 240 kcal
+- Mozzarrella sticks, 120 g, 122 kcal
+- Cola zero, 1, 0 kcal
+- Italian pizza, 0.3, 270 kcal
+
+Dinner - 1469 kcal
+- Fried Zucchini, 120 g, 201 kcal
+- Wafer, 30 g, 130 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+- Grilled Sausage, 1, 350 kcal
+- Beer, 1.5 l, 675 kcal
+- Candy, 15 g, 60 kcal
+
+Total: 2146 kcal
+
+Date: 21 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 538 kcal
+- Boiled potato, 30 g, 22 kcal
+- Zuccini Fried, 50 g, 65 kcal
+- Fried Chicken Thigh, 80 g, 144 kcal
+- Sauce, 1, 50 kcal
+- Kirschstange, 60 g, 212 kcal
+- Cappuccino, 1, 45 kcal
+
+Dinner - 556 kcal
+- Lahmacun, 240 g, 288 kcal
+- Burek, 40 g, 111 kcal
+- Orange Juice, 220 ml, 77 kcal
+- Sausage, 20 g, 80 kcal
+
+Snack - 345 kcal
+- Wynand Fockink, 30 ml, 104 kcal
+- Schweppes, 300 ml, 75 kcal
+- Мишка косолапый конфета, 20 g, 106 kcal
+- Candy, 15 g, 60 kcal
+
+Total: 1484 kcal
+
+Date: 22 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 635 kcal
+- Dürüm, 30 g, 97 kcal
+- Boiled Pasta, 60 g, 79 kcal
+- Schnitzel, 1, 350 kcal
+- Climaid, 330 ml, 109 kcal
+
+Snack - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Dinner - 1198 kcal
+- Hot dog bun, 90 g, 301 kcal
+- Sausage with Cheese, 1, 280 kcal
+- Baked Beans, 200 g, 300 kcal
+- Schweppes, 450 ml, 113 kcal
+- Tomato, 50 g, 10 kcal
+- Olive oil, 10 ml, 88 kcal
+- Мишка косолапый конфета, 20 g, 106 kcal
+
+Total: 1923 kcal
+
+Date: 23 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 577 kcal
+- Schnitzel, 1, 350 kcal
+- Baked Potato, 80 g, 75 kcal
+- Cucumber salad, 40 g, 13 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Snack - 109 kcal
+- Climaid, 330 ml, 109 kcal
+
+Dinner - 1059 kcal
+- Olivier salad, 130 g, 462 kcal
+- Bread, 60 g, 159 kcal
+- Snail Sosis, 80 g, 208 kcal
+- Berry Pastry épi, 0.4, 160 kcal
+- Orange Juice, 200 ml, 70 kcal
+
+Total: 1790 kcal
+
+Date: 24 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 985 kcal
+- Pide Meat & Cheese, 1, 900 kcal
+- Ayran, 250 ml, 85 kcal
+
+Snack - 93 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Dinner - 934 kcal
+- Italian pizza, 0.8, 720 kcal
+- Мишка косолапый конфета, 20 g, 106 kcal
+- Milk Chocolate, 20 g, 108 kcal
+
+Total: 2057 kcal
+
+Date: 25 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 684 kcal
+- Italian pizza, 0.4, 360 kcal
+- Burek, 40 g, 111 kcal
+- Olivier salad, 60 g, 213 kcal
+
+Snack - 107 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+- Milk Chocolate, 10 g, 54 kcal
+
+Dinner - 1082 kcal
+- Sushi rolls, 12, 420 kcal
+- Nigiri, 5, 265 kcal
+- Beer, 0.66 l, 297 kcal
+- Haribo Tropifruit, 60 g, 100 kcal
+
+Total: 1918 kcal
+
+Date: 26 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 398 kcal
+- Blin, 2, 220 kcal
+- Camambert Cheese, 40 g, 88 kcal
+- Wachholder Schinken, 40 g, 80 kcal
+- Tomato, 50 g, 10 kcal
+
+Snack - 688 kcal
+- Black Tea, 2 l, 0 kcal
+- Baklava, 160 g, 688 kcal
+
+Dinner - 732 kcal
+- Big Mac, 1, 545 kcal
+- Fries, 60 g, 187 kcal
+
+Bar - 865 kcal
+- Kölsch, 7, 560 kcal
+- Schnaps, 40 ml, 90 kcal
+- Baklava, 50 g, 215 kcal
+
+Total: 2728 kcal
+
+Date: 27 July 2025
+
+Breakfast - 390 kcal
+- Black coffee, 1, 0 kcal
+- Fried egg, 2, 180 kcal
+- Cheese, 30 g, 120 kcal
+- Cured Sausage, 30 g, 90 kcal
+
+Lunch - 1079 kcal
+- Schawarma Large, 0.7, 840 kcal
+- Club Mate, 500 ml, 100 kcal
+- Coca cola, 330 ml, 139 kcal
+
+Snack - 258 kcal
+- Baklava, 60 g, 258 kcal
+
+Dinner - 777 kcal
+- Small fish fried, 60 g, 150 kcal
+- Olivier salad, 80 g, 284 kcal
+- Wine, 350 ml, 287 kcal
+- Ласточка конфета, 14 g, 56 kcal
+
+Total: 2504 kcal
+
+Date: 28 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 993 kcal
+- Schawarma Anya, 1, 900 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Dinner - 492 kcal
+- Boiled potato, 40 g, 29 kcal
+- Carrot roasted, 40 g, 26 kcal
+- Орехите Сушеница, 30 g, 70 kcal
+- Cheese, 20 g, 80 kcal
+- Jamón Serrano, 20 g, 48 kcal
+- Мишка косолапый конфета, 20 g, 106 kcal
+- Bread, 50 g, 133 kcal
+
+Snack - 264 kcal
+- Tutku, 40 g, 204 kcal
+- Цитрон, 10 g, 60 kcal
+
+Total: 1794 kcal
+
+Date: 29 July 2025
+
+Breakfast - 154 kcal
+- Cappuccino, 1, 45 kcal
+- Climaid, 330 ml, 109 kcal
+
+Lunch - 684 kcal
+- Pasta Bolognese, 400 g, 520 kcal
+- Coca cola, 200 ml, 84 kcal
+- Cheese, 20 g, 80 kcal
+
+Dinner - 801 kcal
+- Snail Sosis, 80 g, 208 kcal
+- Bread, 60 g, 159 kcal
+- Baked Beans, 170 g, 255 kcal
+- Sirene, 30 g, 73 kcal
+- Мишка косолапый конфета, 20 g, 106 kcal
+
+Total: 1639 kcal
+
+Date: 30 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 727 kcal
+- Chicken Gumbo, 250 g, 250 kcal
+- Boiled potato, 80 g, 58 kcal
+- Croissant with creme, 60 g, 269 kcal
+- Large Cappuccino, 1, 150 kcal
+
+Snack - 268 kcal
+- Цитрон, 10 g, 60 kcal
+- Мишка косолапый конфета, 20 g, 106 kcal
+- Tutku, 20 g, 102 kcal
+
+Dinner - 576 kcal
+- Udon noodle, 200 g, 344 kcal
+- Chicken breast, 80 g, 132 kcal
+- Sauce, 2, 100 kcal
+- Cola zero, 2, 0 kcal
+
+Total: 1616 kcal
+
+Date: 31 July 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 575 kcal
+- Sprite, 200 ml, 66 kcal
+- Mashed potato, 80 g, 70 kcal
+- Pork Sausage fried, 80 g, 241 kcal
+- Sauerkraut, 100 g, 13 kcal
+- Creme Brule, 0.7, 140 kcal
+- Cappuccino, 1, 45 kcal
+
+Snack - 253 kcal
+- Bread, 40 g, 106 kcal
+- Smoked Salmon, 50 g, 59 kcal
+- Sirene, 15 g, 37 kcal
+- Cola zero, 2, 0 kcal
+- Tutku, 10 g, 51 kcal
+
+Dinner - 776 kcal
+- Mozzarrella sticks, 100 g, 101 kcal
+- Italian pizza, 0.75, 675 kcal
+
+Total: 1649 kcal
+
+Date: 1 August 2025
+
+Breakfast - 521 kcal
+- Cappuccino, 1, 45 kcal
+- Italian pizza, 0.5, 450 kcal
+- Pastirma, 15 g, 26 kcal
+
+Dinner - 873 kcal
+- Kebapche, 120 g, 360 kcal
+- Rice, 130 g, 170 kcal
+- Baked Beans, 180 g, 270 kcal
+- Sirene, 30 g, 73 kcal
+
+Snack - 158 kcal
+- Мишка косолапый конфета, 10 g, 53 kcal
+- Candy, 15 g, 60 kcal
+- Cappuccino, 1, 45 kcal
+
+Total: 1552 kcal
+
+Date: 2 August 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Snack - 579 kcal
+- Apfelschorle, 0.6 l, 169 kcal
+- Kleines belegtes Brötchen, 1.5, 375 kcal
+- Orange Juice, 100 ml, 35 kcal
+- Cola zero, 4, 0 kcal
+
+Snack 2 - 360 kcal
+- Italian pizza, 0.4, 360 kcal
+
+Dinner - 822 kcal
+- Italian pizza, 0.45, 405 kcal
+- Beer, 0.66 l, 297 kcal
+- Candy, 30 g, 120 kcal
+
+Total: 1806 kcal
+
+Date: 3 August 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 1146 kcal
+- Orange Juice, 500 ml, 175 kcal
+- Орехите Сушеница, 45 g, 105 kcal
+- Sirene, 40 g, 97 kcal
+- Cheese, 20 g, 80 kcal
+- Blin, 5.5, 605 kcal
+- Jam, 30 g, 84 kcal
+
+Dinner - 914 kcal
+- Schweppes, 450 ml, 112 kcal
+- Pasta with sauce, 250 g, 393 kcal
+- Kebapche, 90 g, 270 kcal
+- White sausage, 60 g, 139 kcal
+
+Total: 2105 kcal
+
+Date: 4 August 2025
+
+Breakfast - 259 kcal
+- Cappuccino, 1, 45 kcal
+- Banana, 1, 121 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Lunch - 638 kcal
+- Thai Cashew Chicken, 250 g, 273 kcal
+- Schoko Wupi, 1, 365 kcal
+
+Dinner - 847 kcal
+- Blin, 3, 330 kcal
+- Орехите Сушеница, 60 g, 140 kcal
+- Cheese, 20 g, 80 kcal
+- Sirene, 30 g, 73 kcal
+- Лютеница, 50 g, 75 kcal
+- Beer, 330 ml, 149 kcal
+
+Snack - 544 kcal
+- Цитрон, 10 g, 60 kcal
+- Wynand Fockink, 30 ml, 104 kcal
+- Vanilla Ice Cream, 140 g, 280 kcal
+- Wasabi Peas, 25 g, 100 kcal
+
+Total: 2288 kcal
+
+Date: 5 August 2025
+
+Breakfast - 219 kcal
+- Cappuccino, 1, 45 kcal
+- Greek Yoghurt, 150 g, 174 kcal
+
+Lunch - 666 kcal
+- Rice, 100 g, 131 kcal
+- Restaurant Limo, 300 ml, 135 kcal
+- Pad Kra Pao, 400 g, 400 kcal
+
+Snack - 120 kcal
+- Цитрон, 20 g, 120 kcal
+
+Dinner - 448 kcal
+- Lahmacun, 300 g, 360 kcal
+- Schweppes, 350 ml, 88 kcal
+
+Snack 2 - 832 kcal
+- Banica, 120 g, 459 kcal
+- Orange Juice, 250 ml, 88 kcal
+- Орехите Сушеница, 30 g, 70 kcal
+- Cured Sausage, 20 g, 60 kcal
+- Pastirma, 20 g, 35 kcal
+- Цитрон, 20 g, 120 kcal
+
+Total: 2285 kcal
+
+Date: 7 August 2025
+
+Breakfast - 171 kcal
+- Cappuccino, 1, 45 kcal
+- Coca cola, 300 ml, 126 kcal
+
+Lunch - 656 kcal
+- Kung Pao, 280 g, 475 kcal
+- Schweppes, 200 ml, 50 kcal
+- Rice, 100 g, 131 kcal
+
+Snack - 93 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Total: 920 kcal
+
+Date: 6 August 2025
+
+Breakfast - 45 kcal
+- Cappuccino, 1, 45 kcal
+
+Lunch - 956 kcal
+- Naan, 100 g, 290 kcal
+- Malai Kofta, 300 g, 540 kcal
+- Coca cola, 300 ml, 126 kcal
+
+Second Lunch - 546 kcal
+- Falafel (balls), 3, 180 kcal
+- Bread, 45 g, 119 kcal
+- Hummus, 80 g, 184 kcal
+- Red Cabbage, 20 g, 10 kcal
+- Feta cheese, 20 g, 53 kcal
+
+Concert - 180 kcal
+- Beer, 400 ml, 180 kcal
+
+Total: 1727 kcal
+
+Date: 8 August 2025
+
+
+
+Total: 0 kcal
