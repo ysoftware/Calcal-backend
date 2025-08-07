@@ -2,6 +2,8 @@ import Foundation
 import Hummingbird
 import MultipartKit
 
+// TODO: get parameter ?lastDate=17-April-2024, to limit response to only days after, including it and also 10 days prior
+
 struct PostBody: Decodable {
     let file: String
     let password: String
@@ -49,11 +51,11 @@ struct PostBody: Decodable {
             else { return Response(status: .badRequest, headers: HTTPFields(), body: ResponseBody()) }
 
             let postBody: PostBody
-            var transferSize = 0
+            var transferSizeRequest = 0
             do {
                 let buffer = try await request.body.collect(upTo: context.maxUploadSize)
                 postBody = try FormDataDecoder().decode(PostBody.self, from: buffer, boundary: parameter.value)
-                transferSize = buffer.writerIndex
+                transferSizeRequest = buffer.writerIndex
             } catch {
                 print("got post: bad request \(#line)")
                 return Response(status: .badRequest, headers: HTTPFields(), body: ResponseBody())
@@ -115,13 +117,16 @@ struct PostBody: Decodable {
                 return Response(status: .internalServerError, headers: HTTPFields(), body: ResponseBody())
             }
 
-            print("got post: ok [transfered \(transferSize) bytes]")
-            return Response(status: .ok, headers: HTTPFields(), body: ResponseBody())
+            let updatedContents = newData.map(Mapper.map(entity:)).joined(separator: "\n\n")
+            let updatedBuffer = ByteBuffer(string: updatedContents)
+            let transferSizeResponse = updatedContents.data(using: .utf8)?.count ?? 0
+            print("got post: ok [transfered \(transferSizeRequest) / \(transferSizeResponse) bytes]")
+            return Response(status: .ok, headers: HTTPFields(), body: ResponseBody(byteBuffer: updatedBuffer))
         }
 
         let app = Application(
             router: router,
-            configuration: .init(address: .hostname("0.0.0.0", port: 80))
+            configuration: .init(address: .hostname("0.0.0.0", port: 7777))
         )
         try await app.runService()
     }
