@@ -10242,22 +10242,6 @@ Snack 2 - 832 kcal
 
 Total: 2285 kcal
 
-Date: 7 August 2025
-
-Breakfast - 171 kcal
-- Cappuccino, 1, 45 kcal
-- Coca cola, 300 ml, 126 kcal
-
-Lunch - 656 kcal
-- Kung Pao, 280 g, 475 kcal
-- Schweppes, 200 ml, 50 kcal
-- Rice, 100 g, 131 kcal
-
-Snack - 93 kcal
-- Apfelschorle, 330 ml, 93 kcal
-
-Total: 920 kcal
-
 Date: 6 August 2025
 
 Breakfast - 45 kcal
@@ -10280,8 +10264,39 @@ Concert - 180 kcal
 
 Total: 1727 kcal
 
+Date: 7 August 2025
+
+Breakfast - 171 kcal
+- Cappuccino, 1, 45 kcal
+- Coca cola, 300 ml, 126 kcal
+
+Lunch - 656 kcal
+- Kung Pao, 280 g, 475 kcal
+- Schweppes, 200 ml, 50 kcal
+- Rice, 100 g, 131 kcal
+
+Snack - 93 kcal
+- Apfelschorle, 330 ml, 93 kcal
+
+Total: 920 kcal
+
 Date: 8 August 2025
 
+Breakfast - 270 kcal
+- Espresso, 1, 0 kcal
+- Орехите Сушеница, 30 g, 70 kcal
+- Leibniz Cookies, 40 g, 200 kcal
 
+Lunch - 530 kcal
+- Focaccia, 1, 530 kcal
 
-Total: 0 kcal
+Dinner - 748 kcal
+- Souvlaki, 2, 300 kcal
+- Bread, 100 g, 265 kcal
+- Cucumber salad, 100 g, 34 kcal
+- Beer, 330 ml, 149 kcal
+
+Snack - 113 kcal
+- Beer, 250 ml, 113 kcal
+
+Total: 1661 kcal
